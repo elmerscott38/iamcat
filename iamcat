@@ -1,0 +1,3193 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://iamcat.blog/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>I am Cat - This blog will answer all your questions about cats</title>
+	<meta name="description" content="This blog will answer all your questions about cats" />
+	<link rel="canonical" href="https://iamcat.blog/" />
+	<link rel="next" href="https://iamcat.blog/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="I am Cat" />
+	<meta property="og:description" content="This blog will answer all your questions about cats" />
+	<meta property="og:url" content="https://iamcat.blog/" />
+	<meta property="og:site_name" content="I am Cat" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://iamcat.blog/","url":"https://iamcat.blog/","name":"I am Cat - This blog will answer all your questions about cats","isPartOf":{"@id":"https://iamcat.blog/#website"},"about":{"@id":"https://iamcat.blog/#organization"},"description":"This blog will answer all your questions about cats","breadcrumb":{"@id":"https://iamcat.blog/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://iamcat.blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://iamcat.blog/#website","url":"https://iamcat.blog/","name":"I am Cat","description":"This blog will answer all your questions about cats","publisher":{"@id":"https://iamcat.blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://iamcat.blog/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://iamcat.blog/#organization","name":"I am Cat","url":"https://iamcat.blog/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://iamcat.blog/#/schema/logo/image/","url":"https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/iam-cat-1-png.png?fit=511%2C511&ssl=1","contentUrl":"https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/iam-cat-1-png.png?fit=511%2C511&ssl=1","width":511,"height":511,"caption":"I am Cat"},"image":{"@id":"https://iamcat.blog/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="I am Cat &raquo; Feed" href="https://iamcat.blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="I am Cat &raquo; Comments Feed" href="https://iamcat.blog/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.25.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/iamcat.blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.4.3/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='ce4wp-subscribe-style-inline-css' type='text/css'>
+.wp-block-ce4wp-subscribe{max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .title{margin-bottom:0}.wp-block-ce4wp-subscribe .subTitle{margin-top:0;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer{margin-top:5px;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer .disclaimer-label{margin-left:10px}.wp-block-ce4wp-subscribe .inputBlock{width:100%;margin-bottom:10px}.wp-block-ce4wp-subscribe .inputBlock input{width:100%}.wp-block-ce4wp-subscribe .inputBlock label{display:inline-block}.wp-block-ce4wp-subscribe .submit-button{margin-top:25px;display:block}.wp-block-ce4wp-subscribe .required-text{display:inline-block;margin:0;padding:0;margin-left:0.3em}.wp-block-ce4wp-subscribe .onSubmission{height:0;max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .firstNameSummary .lastNameSummary{text-transform:capitalize}.wp-block-ce4wp-subscribe .ce4wp-inline-notification{display:flex;flex-direction:row;align-items:center;padding:13px 10px;width:100%;height:40px;border-style:solid;border-color:orange;border-width:1px;border-left-width:4px;border-radius:3px;background:rgba(255,133,15,0.1);flex:none;order:0;flex-grow:1;margin:0px 0px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-text{font-style:normal;font-weight:normal;font-size:16px;line-height:20px;display:flex;align-items:center;color:#571600;margin-left:9px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-icon{color:orange}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-arrow{color:#571600;margin-left:auto}.wp-block-ce4wp-subscribe .ce4wp-banner-clickable{cursor:pointer}.ce4wp-link{cursor:pointer}
+
+.no-flex{display:block}.sub-header{margin-bottom:1em}
+
+
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.4.3/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.4.3/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='nfd-wonder-blocks-utilities-css' href='https://iamcat.blog/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-patterns/assets/build/utilities.css?ver=0.1.15' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='genericons-css' href='https://c0.wp.com/p/jetpack/13.2.2/_inc/genericons/genericons/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='minnow-style-css' href='https://iamcat.blog/wp-content/themes/lyretail/style.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='lyretail-parent-style-css' href='https://iamcat.blog/wp-content/themes/minnow/style.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='lyretail-style-css' href='https://iamcat.blog/wp-content/themes/lyretail/style.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='lyretail-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%7CAbril+Fatface&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/13.2.2/css/jetpack.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-patterns/assets/build/utilities.js?ver=0.1.15" id="nfd-wonder-blocks-utilities-js"></script>
+<link rel="https://api.w.org/" href="https://iamcat.blog/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://iamcat.blog/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+	<style>img#wpstats{display:none}</style>
+		        <style>
+            #nfd-site-status {
+				align-items: center;
+                background-color: #F8F8F8;
+				border-radius: 2px;
+				border-style: solid;
+				border-width: 1px;
+                color: #333333;
+				display: flex;
+				font-weight: 500;
+				gap: 2px;
+				height: 22px;
+				margin-top: 4px;
+                padding: 0 14px;
+            }
+
+			#wpadminbar #wp-admin-bar-site-status .ab-item{
+				height:22px;
+			}
+
+			#nfd-site-status[data-coming-soon="true"] {
+				border-color: var(--Dark-Red, #C71919);
+            }
+			
+			#nfd-site-status[data-coming-soon="false"] {
+				border-color: var(--A11y-GRN, #278224);
+			}
+
+			#nfd-site-status span { 
+				display: none;
+				text-transform: uppercase;
+				font-weight: 500;
+			}
+
+            #nfd-site-status[data-coming-soon="true"] #nfd-site-status-coming-soon {
+                color: var(--Dark-Red, #C71919);
+				display: inline-block;
+			}
+
+			#nfd-site-status[data-coming-soon="false"] #nfd-site-status-live {
+                color: var(--A11y-GRN, #278224);
+                display: inline-block;
+            }
+        </style>
+		<link rel="icon" href="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/I-am-cat-yin-yang-2.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/I-am-cat-yin-yang-2.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/I-am-cat-yin-yang-2.jpg?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/I-am-cat-yin-yang-2.jpg?fit=270%2C270&#038;ssl=1" />
+	<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
+	<style>
+		:root {
+--font-base: Futura, Trebuchet MS, Arial, sans-serif;
+--font-headings: Futura, Trebuchet MS, Arial, sans-serif;
+--font-input: Futura, Trebuchet MS, Arial, sans-serif;
+}
+body, #content, .entry-content, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .widget-area, .widget, .sidebar, #sidebar, footer, .footer, #footer, .site-footer {
+font-family: Futura, Trebuchet MS, Arial, sans-serif;
+ }
+#site-title, .site-title, #site-title a, .site-title a, .entry-title, .entry-title a, h1, h2, h3, h4, h5, h6, .widget-title, .elementor-heading-title {
+font-family: Futura, Trebuchet MS, Arial, sans-serif;
+ }
+button, .button, input, select, textarea, .wp-block-button, .wp-block-button__link {
+font-family: Futura, Trebuchet MS, Arial, sans-serif;
+ }
+	</style>
+	<!-- Fonts Plugin CSS -->
+	<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style></head>
+
+<body class="home blog wp-custom-logo has-site-logo">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<a class="skip-link screen-reader-text" href="#open-menu">Skip to menu</a>
+
+			<div class="slide-menu">
+			
+<div id="secondary" class="clear" role="complementary">
+			<div class="widget-areas">
+					<div class="widget-area">
+				<aside id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://iamcat.blog/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-1" >Search</label><div class="wp-block-search__inside-wrapper " ><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required /><button aria-label="Search" class="wp-block-search__button wp-element-button" type="submit" >Search</button></div></form></aside><aside id="block-3" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Recent Posts</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://iamcat.blog/my-cats-health/">Caring for my pet cat (Part 5)</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://iamcat.blog/caring-for-my-pet-cat-grooming-training-and-transporting/">Caring for my pet cat (Part 4)</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://iamcat.blog/bedding-loos-and-toys-for-cats/">Caring for my pet cat (Part 3)</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://iamcat.blog/keeping-our-cats-safe-in-and-around-the-home/">Caring for my pet cat (Part 2)</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://iamcat.blog/what-do-i-feed-my-cat/">Caring for my pet cat (Part 1)</a></li>
+</ul></div></div></aside><aside id="block-4" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Recent Comments</h2><ol class="wp-block-latest-comments"><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://iamcat.blog/author/anneke/">anneke</a> on <a class="wp-block-latest-comments__comment-link" href="https://iamcat.blog/caring-for-my-pet-cat-grooming-training-and-transporting/#comment-111">Caring for my pet cat (Part 4)</a></footer></article></li><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://www.boykinspaniellovers.org/">boykinspaniellovers.org</a> on <a class="wp-block-latest-comments__comment-link" href="https://iamcat.blog/caring-for-my-pet-cat-grooming-training-and-transporting/#comment-110">Caring for my pet cat (Part 4)</a></footer></article></li><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://iamcat.blog/author/anneke/">anneke</a> on <a class="wp-block-latest-comments__comment-link" href="https://iamcat.blog/finding-a-missing-cat/#comment-97">What do I do if my cat goes missing?</a></footer></article></li><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://iamcat.blog/author/anneke/">anneke</a> on <a class="wp-block-latest-comments__comment-link" href="https://iamcat.blog/finding-a-missing-cat/#comment-96">What do I do if my cat goes missing?</a></footer></article></li><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://iamcat.blog/author/anneke/">anneke</a> on <a class="wp-block-latest-comments__comment-link" href="https://iamcat.blog/finding-a-missing-cat/#comment-95">What do I do if my cat goes missing?</a></footer></article></li></ol></div></div></aside>			</div>
+		
+					<div class="widget-area">
+				<aside id="block-5" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Archives</h2><ul class="wp-block-archives-list wp-block-archives">	<li><a href='https://iamcat.blog/2023/03/'>March 2023</a></li>
+	<li><a href='https://iamcat.blog/2023/02/'>February 2023</a></li>
+	<li><a href='https://iamcat.blog/2023/01/'>January 2023</a></li>
+	<li><a href='https://iamcat.blog/2022/12/'>December 2022</a></li>
+	<li><a href='https://iamcat.blog/2022/11/'>November 2022</a></li>
+	<li><a href='https://iamcat.blog/2022/10/'>October 2022</a></li>
+	<li><a href='https://iamcat.blog/2022/09/'>September 2022</a></li>
+</ul></div></div></aside><aside id="block-6" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Categories</h2><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-1"><a href="https://iamcat.blog/category/uncategorized/">Uncategorized</a>
+</li>
+</ul></div></div></aside>			</div>
+		
+				</div>
+	
+	</div><!-- #secondary -->		</div>
+	
+	<header id="masthead" class="site-header" role="banner" >
+					<button class="menu-toggle" id="open-menu" title="Sidebar"><span class="screen-reader-text">Sidebar</span></button>
+				<div class="site-branding">
+							<a href="https://iamcat.blog/" class="site-logo-link" rel="home" itemprop="url"><img width="300" height="300" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/iam-cat-1-png.png?fit=300%2C300&amp;ssl=1" class="site-logo attachment-minnow-site-logo" alt="" data-size="minnow-site-logo" itemprop="logo" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/iam-cat-1-png.png?w=511&amp;ssl=1 511w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/iam-cat-1-png.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/08/iam-cat-1-png.png?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 300px) 100vw, 300px" /></a>						<h1 class="site-title"><a href="https://iamcat.blog/" rel="home">I am Cat</a></h1>
+			<h2 class="site-description">This blog will answer all your questions about cats</h2>
+		</div>
+
+		
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+						
+				
+<article id="post-934" class="post-934 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/my-cats-health/" rel="bookmark">Caring for my pet cat (Part 5)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/my-cats-health/" rel="bookmark"><time class="entry-date published" datetime="2023-03-26T08:21:59+00:00">March 26, 2023</time><time class="updated" datetime="2023-05-17T08:35:37+00:00">May 17, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 11e</h2>
+
+
+
+<h2 class="wp-block-heading">My cat&#8217;s health</h2>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-faces-Jo.jpg?resize=660%2C232&#038;ssl=1" alt="Cat hiding under cover" class="wp-image-942" width="660" height="232" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-faces-Jo.jpg?w=379&amp;ssl=1 379w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-faces-Jo.jpg?resize=300%2C105&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Hill&#8217;s Pet Nutrition</figcaption></figure></div>
+
+
+<p>We know that our cat&#8217;s health is of paramount importance. But how do we make sure our pet remains as healthy as possible for as long as possible?</p>
+
+
+
+<p>I&#8217;m no expert, of course, so I&#8217;ll only provide you with some of the guidelines that I&#8217;ve found helpful over the years. </p>
+
+
+
+<p>Probably the most important thing you can do to keep your pet healthy, is feeding him or her quality food. See for example <a href="https://iamcat.blog/what-do-i-feed-my-cat/">https://iamcat.blog/what-do-i-feed-my-cat/</a>. This one thing will go a long way towards ensuring that your pet visits the vet as seldom as possible.</p>
+
+
+
+<p>It is generally recommended that a kitten should receive his or her first inoculation and deworming at 8 weeks. Give them boosters a month later, and then every 3 years until the age of 7. </p>
+
+
+
+<p>You could also research the subject of cat health on the net, of course! See for example <a href="https://www.hillcrestanimals.com/site/blog-memphis-vet/2020/03/12/how-to-tell-if-your-cat-is-sick">https://www.hillcrestanimals.com/site/blog-memphis-vet/2020/03/12/how-to-tell-if-your-cat-is-sick</a>.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-at-the-vet-Meadows-Cat-Hospital.jpg?resize=485%2C323&#038;ssl=1" alt="A cat at the vet" class="wp-image-943" width="485" height="323" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Meadows Cat Hospital</figcaption></figure></div>
+
+
+<p>Ideally you should take your pet for a veterinary check-up every 6 months. Also consult your vet about anything out of the ordinary. Look out for signs such as repeated sneezing, runny eyes, congested nose or loss of appetite. In fact, look out for any change in your cat&#8217;s demeanour or behaviour. If you notice anything, take your cat to the vet as soon as possible; quick action could prevent serious illness.</p>
+
+
+
+<p></p>
+
+
+
+<p>Keep ticks and fleas at bay with the help of one of the excellent products available from your vet. Examples are Broadline, Advantage and Revolution. Many vets recommend deworming at least twice a year. Some highly respected veterinary specialists recommend deworming only when you&#8217;re sure your cat actually has worms, however.</p>
+
+
+
+<p>And lastly: speak to your vet if you&#8217;re worried! Many vets will allow you to consult with them provisionally over the phone. This would mean that you don&#8217;t have to take your cat to the clinic immediately. That can be a big help if finances are tight, as they are for most of us!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>What greater gift than the love of a cat?</p><cite>Unknown</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Cat Story 20: <strong>Jenny Reimers and her 99 ferals</strong></h2>
+
+
+
+<p><strong><em>If you&#8217;re based in Joburg, this story is coming to you with a prayer!</em></strong></p>
+
+
+
+<p></p>
+
+
+
+<p>Over the past year or two I&#8217;ve had the privilege of chatting to Jenny Reimers by e-mail. I say &#8216;privilege&#8217; because, although I&#8217;ve never met her, Jenny&#8217;s love for and dedication to each of the approximately 90-100 community (&#8216;feral&#8217;) cats she cares for daily shine through like pure light.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-1.png?resize=445%2C413&#038;ssl=1" alt="Cats being fed behind a gate" class="wp-image-945" width="445" height="413" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-1.png?w=549&amp;ssl=1 549w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-1.png?resize=300%2C278&amp;ssl=1 300w" sizes="(max-width: 445px) 100vw, 445px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>These are some of the cats Jenny has been feeding at Primrose Primary</strong></figcaption></figure></div>
+
+
+<p>The main reason why we&#8217;ve been mailing one another is that I&#8217;ve been trying to find Jenny some help with the superhuman task she&#8217;s set herself. Thus far, I haven&#8217;t had much success. And it&#8217;s an additional worry that we have a deadline looming: Jenny&#8217;s retirement. Subsequently she&#8217;ll be relocating and will no longer be able to continue feeding and sterilising.</p>
+
+
+
+<p>JENNY AND &#8216;HER&#8217; FERALS NEED OUR HELP!</p>
+
+
+
+<p>For many years now, Jenny has been spending all her &#8216;spare&#8217; funds on cats in need. She says: &#8216;My life is centred around the kitties I feed&#8217;. She&#8217;s terrified that she will not find caregivers who will take over the labour of love from her.</p>
+
+
+
+<p>The time has now come for younger and stronger cat lovers to enable Jenny to retire with all the peace of mind she deserves!</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-2.png?resize=660%2C261&#038;ssl=1" alt="Cats being fed" class="wp-image-946" width="660" height="261" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-2.png?w=521&amp;ssl=1 521w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-2.png?resize=300%2C119&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /><figcaption class="wp-element-caption">A few of the cats Jenny feeds at Makro in Woodmead</figcaption></figure></div>
+
+
+<p>This is where she&#8217;s feeding at the moment (either as sole feeder or with some help):</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Woodmead</strong></p>
+
+
+
+<p>± 17 kitties &#8211; Makro (sole feeder)</p>
+
+
+
+<p>± 3 kitties – McDonalds (shared feeding)</p>
+
+
+
+<p>± 3 kitties – Kentucky (sole feeder)</p>
+
+
+
+<p>± 6 kitties – Segars (sole feeder)</p>
+
+
+
+<p>± 3 kitties – Woolworths (shared feeding)</p>
+
+
+
+<p>± 10 kitties &#8211; Pickitup (sole feeder)</p>
+
+
+
+<p>± 10 kitties &#8211; Country Club Estate (opposite Woodlands Office Park) (sole feeder)</p>
+
+
+
+<p><strong>Edenvale</strong></p>
+
+
+
+<p>± 10 kitties &#8211; Senderwood scrap yard (shared feeding)</p>
+
+
+
+<p>± 12 kitties &#8211; Edenvale (Checkers Hyper, receiving area) (sole feeder)</p>
+
+
+
+<p>± 15 kitties &#8211; Primrose Primary (sole feeder)</p>
+
+
+
+<p>± 10 kitties – 3J Computer Supplies, Sunnyrock Close (Sole feeder with food provided by a caring person)</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full"><img loading="lazy" decoding="async" width="345" height="395" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-3.png?resize=345%2C395&#038;ssl=1" alt="Cats being fed" class="wp-image-947" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-3.png?w=345&amp;ssl=1 345w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Jennys-kitties-3.png?resize=262%2C300&amp;ssl=1 262w" sizes="(max-width: 345px) 100vw, 345px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>Lucky kitties at the Checkers Hyper in Edenvale</strong></figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>If you or anyone you know can help with one or more of the above stations, won&#8217;t you please contact me at <a href="mailto:anneke@ncat.co.za">anneke@ncat.co.za</a>? I will then put you in touch with Jenny directly.</p>
+
+
+
+<p>Sending you thanks and blessings in advance!</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>And so we&#8217;ve come to the end of this series of I am Cat blogs. My most sincere thanks to all of you who have sent me feedback, questions and encouragement. It&#8217;s been an absolute pleasure sharing with you such knowledge as I&#8217;ve acquired on the subjects covered here. I hope it has helped you in caring for some of the amazing cats that share your life and your love.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-911" class="post-911 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/caring-for-my-pet-cat-grooming-training-and-transporting/" rel="bookmark">Caring for my pet cat (Part 4)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/caring-for-my-pet-cat-grooming-training-and-transporting/" rel="bookmark"><time class="entry-date published" datetime="2023-03-06T16:34:40+00:00">March 6, 2023</time><time class="updated" datetime="2023-05-17T08:22:16+00:00">May 17, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span><span class="comments-link"><a href="https://iamcat.blog/caring-for-my-pet-cat-grooming-training-and-transporting/#comments">2 Comments</a></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 11d</h2>
+
+
+
+<h2 class="wp-block-heading">Grooming, training and transporting my cat</h2>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Should I groom my cat?</h2>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-being-brushed-Hills-Pet-Nutrition.jpg?resize=660%2C231&#038;ssl=1" alt="Cat being brushed" class="wp-image-922" width="660" height="231" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-being-brushed-Hills-Pet-Nutrition.jpg?w=379&amp;ssl=1 379w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-being-brushed-Hills-Pet-Nutrition.jpg?resize=300%2C105&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Hill&#8217;s Pet Nutrition</figcaption></figure></div>
+
+
+<p>This is the 4th Cat Blog in the miniseries on caring for my pet cat, which began in Cat Blog 11a (<a href="https://iamcat.blog/what-do-i-feed-my-cat/">https://iamcat.blog/what-do-i-feed-my-cat/</a>). Today we look firstly on whether we should groom our cats. Fortunately your cat will groom himself or herself every day, but you could help them by brushing them regularly to prevent their hair from matting. This will also stop them from ingesting hair balls.</p>
+
+
+
+<p>And if your pet’s nails become too long and hook onto everything, cut only the tips of the rounded nails using special clippers or sturdy human nail clippers. Make sure you do this where you can see well enough that you don’t cut into the quick of the nails.</p>
+
+
+
+<p>&nbsp;Keeping the nails fairly short will minimise damage when your cat ‘sharpens&#8217; her or his nails (but is actually depositing their scent) on your furniture. You could also get your cat a scratching post. The least expensive ones are available in the pet departments of most supermarkets.</p>
+
+
+
+<p>&nbsp;Vets and pet shops usually keep the more elaborate (and more expensive) scratching posts. Take a good look at the following section if there’s a favourite piece of furniture you would like to protect!</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Should I train my kitten?</h2>
+
+
+
+<p>Never raise a hand to your pet, as you will lose his or her trust. I used to use a manual pump spray bottle to train my kitten. It worked most of the time, but then I learned that it could also have negative side-effects. I found this useful piece on Cheezburger:</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>&#8220;So, what is this better way? &nbsp;There are two aspects to it: &nbsp;using environmental deterrents, and giving your cat an alternative to the behavior they are trying to express. &nbsp;You will have to tailor your approach to the undesired behavior you are experiencing, but I will give a few examples. &nbsp;If your cat is scratching a piece of furniture, use an appropriate environmental deterrent- such as double-sided sticky tape or anti-scratch spray- and give your cat a scratching post right next to, or at least near, the piece. &nbsp;Your cat is likely scratching that object because it is a socially important location to them. &nbsp;By using an environmental deterrent, you&#8217;re saying &#8216;no, don&#8217;t scratch here&#8217;, and by putting a post in the same area, you are also giving them a &#8216;yes, scratch here&#8217;. &nbsp;By giving them a &#8216;yes&#8217; nearby, this means that you should only need to use the environmental deterrent as a temporary measure, until the cat has learned to use the alternative instead. &nbsp;Another common example is a cat jumping on a kitchen counter or dining table. &nbsp;The &#8216;no&#8217; would be putting out aluminum foil, or sticky tape, or a &#8216;Ssscat&#8217; air spray device (and also removing anything that is making the area extra appealing, such as food scraps). &nbsp;The &#8216;yes&#8217; would be giving them plenty of other options to satisfy their climbing and jumping urges: cat-trees or other cat furniture items, or strategically installed sturdy shelves.&#8221;</p><cite><a href="https://cheezburger.com/16778501/why-using-squirt-bottles-on-cats-can-be-harmful-sometimes-viral-thread">https://cheezburger.com/16778501/why-using-squirt-bottles-on-cats-can-be-harmful-sometimes-viral-thread</a></cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Kitten-using-scratching-post-The-Lucy-Pet-Foundation.jpg?resize=660%2C494&#038;ssl=1" alt="Kitten using scratching post" class="wp-image-924" width="660" height="494" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: The Lucy Pet Foundation</figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">How do I transport my cat?</h2>
+
+
+
+<p>Transport your cat in a sturdy pet carrier such as those that are widely available from supermarkets, vets and pet shops. This will ensure that you don&#8217;t lose your beloved feline family member should she or he panic for some reason.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-in-carrier-Insider.jpg?resize=507%2C254&#038;ssl=1" alt="cat in carrier" class="wp-image-926" width="507" height="254" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-in-carrier-Insider.jpg?w=318&amp;ssl=1 318w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Cat-in-carrier-Insider.jpg?resize=300%2C150&amp;ssl=1 300w" sizes="(max-width: 507px) 100vw, 507px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Insider</figcaption></figure></div>
+
+
+<p>Keep your pet in her or his carrier even while travelling in your car to ensure their safety just in case you have an accident. There should be enough ventilation in the car but no draught, and if you have to let your cat out of the carrier, be careful not to open any window wider than about one centimetre (half an inch), as a nervous cat can escape through the narrowest of gaps.</p>
+
+
+
+<p>I also know from experience that it’s a good idea to keep some paper towelling in your car in case the stress of the journey causes an upset tummy.</p>
+
+
+
+<p>Most importantly: Never allow your pet to leave the car anywhere except at home!</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Like all pure creatures, cats are practical.</p><cite>William S Burroughs</cite></blockquote></figure>
+
+
+
+<p>I feel very strongly about this week&#8217;s story &#8211; and I&#8217;m sure you will too. Although it is heartrendingly sad, it is powerful and beautifully written. See Niki&#8217;s notes at the end. And please distribute it as widely as you can!</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat story 19: The Visitor, by Niki Moore </h2>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading has-text-align-left"><em>For 83-year-old Bill Jensen, recently bereaved, an unexpected visitor brings a terrible gift.</em></h4>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Tabby-on-mat-3.jpg?resize=471%2C504&#038;ssl=1" alt="Close-up of tabby's fact" class="wp-image-915" width="471" height="504" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Focused Collection</figcaption></figure></div>
+
+
+<p>Bill Jensen was 83 years old.</p>
+
+
+
+<p>He had lived in Durban all his life with his wife, Jennifer. When they had first met, back in 1958, she had joked that she would never be able to marry him, as then she would always be known as Jennifer Jensen, or Jen-Jen. That was, oh, sixty-three years ago now, but he would never forget it….</p>
+
+
+
+<p>That remark, and that sparkling smile, almost as if daring him to prove her wrong. Well, she had been wrong, but over the last sixty-three years she had been right about almost everything else.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>She had been right that their first child would be a son, and that he would grow up to be an engineer like his father. She had been right that their second child would be a daughter, and that she would grow up to be a teacher like her mother. She had also been right, sadly, that both children would leave the country and settle somewhere else. It was a wrench when they left, and the frequent visits, the long telephone calls, the letters and postcards and pictures posted on Facebook were just not the same as having them nearby.</p>
+
+
+
+<p>Had she been right about selling the house and moving into a retirement Home? It was a pleasant place, quite big, with plain lawns and simple gardens. It was what they wanted, they told each other, as they sat and talked over tea in the mornings and their afternoon cake. From their patio, you could almost see the sea.</p>
+
+
+
+<p>But she had definitely been right when she told him one day, not too long ago, that the pains she had been getting were serious, and that she should see a specialist. He wished she hadn’t been right about that.</p>
+
+
+
+<p>It was difficult for him to sit next to his Jen-Jen in her white hospital bed, looking at her white face on the pillow, her thin hand clutching his. His Jen-Jen was all he had, and she was all he had had for a long time.</p>
+
+
+
+<p>Bill wrestled with his thoughts. He knew she was in pain, he knew there was no cure. One moment he wished it could be all over, and her suffering would end. But that would mean that his own suffering would begin. Sixty-three years is a long time to spend with one person. You get to know their laughter, their breathing, their secret smile. How would he cope on his own? He would be alone, completely alone. For the first time in his life.</p>
+
+
+
+<p>In the morning, the nurse found Bill, sitting upright, fast asleep next to the bed, holding Jen-Jen’s hand. She had to wake him very gently.</p>
+
+
+
+<p>“Mr Jensen?” she said. “Mr Jensen?” She lifted his warm, red hand off the cold, white hand of his wife. “I’m sorry, Mr Jensen,” she said. “I’m so terribly sorry.”</p>
+
+
+
+<p>The next few weeks must have passed, but Bill Jensen didn’t remember anything very clearly. He recollected his children coming back for the funeral, and mourned the fact that they had not come back when Jen-Jen was alive. People around him were very kind, very busy. He felt himself being swept along in this race of activity, of organisation, of sympathy. And then it was all over, everything was done, everyone had left. He saw his children off at the airport, and the Home’s bus brought him home.</p>
+
+
+
+<p>It was dusk when he got back to his front door. The door looked just the same. His flat looked just the same. Why did they look the same when everything else was so different? The room echoed a little when he walked in. He sat in his easy-chair as he had done every night for so long, and looked at her chair, standing empty now. Who was he going to talk to? Who was he going to wrangle with over the TV programmes?</p>
+
+
+
+<p>He did not eat, it seemed pointless to make a meal for one person. He stared at the television, not seeing the pictures or hearing the sound. He went to bed and hardly slept, lying staring up at the ceiling. What was he going to do now? He was eighty-three. How could one start all over again at eighty-three?</p>
+
+
+
+<p>It was hardly light when he got up the following morning to put on the kettle for coffee. Coffee for one person. He stood staring at the kettle while the steam came out and it switched itself off. He didn’t even know that he hadn’t moved until he woke from his daze, to find the water in the kettle had cooled. He switched it on again.</p>
+
+
+
+<p>And then he heard the noise. It sounded as if someone was trying to push something through his letterbox. He went into his tiny hallway and opened the door.</p>
+
+
+
+<p>There was a cat on his doormat. A grey tabby, with clear eyes and white paws. The cat twisted its head to look up at Bill, and then looked past him into the flat, as if to ask whether he could come in. Without even thinking about what he was doing, Bill stepped back and the cat walked past him, warily, looking up at him every so often as if to ask if what he was doing was alright.</p>
+
+
+
+<p>“Come in, Kitty,” said Bill, still in a daze. “I’ve just been making some coffee. Would you like some milk?”</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Tabby-on-kitchen-counter-Excited-Cats.jpg?resize=599%2C404&#038;ssl=1" alt="Tabby cat's face from above" class="wp-image-916" width="599" height="404" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Excited Cats</figcaption></figure></div>
+
+
+<p>This seemed to be acceptable. The cat jumped on the kitchen counter, sniffing at the tap, the sink, the kettle, the coffee-cup, the sugar basin. Bill filled a saucer with milk, and the cat came a little nearer, first a little shyly, then eagerly. The two of them drank together in companionable silence.</p>
+
+
+
+<p>Bill stretched out a tentative hand. The cat shied away a little, but soon returned to the saucer. After a few tries, Bill managed to stroke his fur. The cat butted his hand. Almost as a reflex Bill picked the cat up and buried his face in its fur. The fur was soft, and the cat smelled dusty, but the animal did not resist, his body was warm and, deep down, there was the faint rumbling of a purr.</p>
+
+
+
+<p>And so the adventure began.</p>
+
+
+
+<p>Bill took a walk that morning to the corner shop, where he bought cat food and cat litter, with – as an afterthought – something for his own supper. On his way back, the Home’s bus-driver saw him and offered him a lift:</p>
+
+
+
+<p>“Can I help you with those heavy bags, Mr Jensen?”</p>
+
+
+
+<p>“No, I’m fine, Michael,” Bill called back, lifting a hand and attempting a smile. The bus driver went past, looking back in his rear-view mirror.</p>
+
+
+
+<p>‘Looks like the old boy is going to be all right,’ he thought to himself. “I was a little worried about him.”</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/03/Tabby-on-chair-Excited-cats.jpg?resize=660%2C371&#038;ssl=1" alt="" class="wp-image-918" width="660" height="371" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Excited Cats</figcaption></figure></div>
+
+
+<p>The cat was sitting on Jen-Jen’s chair when he let himself back into his flat. He took this as an omen. Jen-Jen had sent the cat, to look after him. She did not want him to be alone.</p>
+
+
+
+<p></p>
+
+
+
+<p>He called the cat Jensen, simply because he could not think of any other name. Jensen Jensen. It fitted, somehow.</p>
+
+
+
+<p>All day, Bill talked to Jensen. He told him about Jennifer, and the things they used to do together. He told him about their first holiday together, when he pretended to be a gondolier in a row-boat, and had fallen in the lake. He told him about the time that his son had been rushed to hospital with a burst appendix, and how he and Jen-Jen had sat in the hospital waiting room, tense and unspeaking, until the danger had passed.</p>
+
+
+
+<p>Jensen sat on the table-top while Bill worked on his hobby (making wooden jigsaws for kids), his paws tucked under his compact body, his eyes following Bill’s hands as they cut and sanded and planed the tiny pieces of wood. He was thin, but quite clean, and Bill did wonder sometimes, when he paused in his work, where he had come from.</p>
+
+
+
+<p>That evening Bill poured himself his habitual whiskey and sat in front of the television and watched his regular programmes. At first Jensen sat perched on Jen-Jen’s chair, blinking at the television too, but after a while he got up, stretched, and jumped down. Bill held his breath. The cat walked over to the door and Bill’s heart sank. Jensen wanted to go out. He was going to leave. Bill stared, unseeing, at the television picture. He did not want to face another evening alone.</p>
+
+
+
+<p>Then he felt a soft paw brush his arm and, with incredible grace, Jensen jumped up onto his lap, turned around once, and settled down. Very gently, hardly breathing, Bill rested a hand on his fur.</p>
+
+
+
+<p>That night, Jensen slept on his bed. Bill did not sleep very well, but every time he made a restless move he would hear the deep vibrating purr from the wakened cat. He felt – almost – content.</p>
+
+
+
+<p>He was making breakfast for the two of them three days later when he heard the knock on the door. It was the supervisor.</p>
+
+
+
+<p>“Mr Jensen,” she began, trying to look over his shoulder, “I have been told you have a cat.”</p>
+
+
+
+<p>“Er…” Bill began. She raised her voice.</p>
+
+
+
+<p>“You know it is forbidden to have pets,” she said. “You are breaking the rules. You must get rid of it immediately.”</p>
+
+
+
+<p>“It is not forbidden,” retorted Bill, with a flash of spirit. “There are no rules about pets on the property.”</p>
+
+
+
+<p>“Mr Jensen,” she said, “You do not want to cross me. I hate cats. I will not allow you to keep a cat.”</p>
+
+
+
+<p>“You won’t even know about it,” said Bill in desperation. “He will live indoors, I have a litter box, he keeps me company….”</p>
+
+
+
+<p>“Oh yes?” she sneered. “You can’t prevent a cat from roaming. He will be a nuisance to the other residents.”</p>
+
+
+
+<p>“No, he won’t.” Bill put up a last defence. “No-one in this complex dislikes animals. We all want pets….”</p>
+
+
+
+<p>“Is that so?” she interrupted. “What would this place be like if everyone just did as they pleased, and we were overrun with dirty animals?” She stepped back. “Michael, please remove this cat.”</p>
+
+
+
+<p>And then Bill saw the bus driver behind her, his face set.</p>
+
+
+
+<p>“Yes, Mrs Braithwaite,” he muttered and shouldered his way past Bill. “I’m sorry, Mr Jensen,” he said. Bill put out a despairing hand to stop him, but it was too late.</p>
+
+
+
+<p>Michael walked into the kitchen, where Jensen had been about to start on his breakfast. He looked up, startled, and then he tried to jump down. Michael caught him in mid-air by one leg, grabbed him round the body, then stuffed the struggling cat into a hessian bag. There was one last, plaintive, yowl.</p>
+
+
+
+<p>“I’m so terribly sorry,” he said again as he walked out, not looking at Bill where he stood, white-faced and trembling, pressed against the front door.</p>
+
+
+
+<p>“The nerve of the man!” said Mrs Braithwaite in a parting shot, as she turned to walk after him. “The next thing we know, this place will be a three-ring circus!”</p>
+
+
+
+<p>Bill felt his way over to his easy chair and sat, staring at the wall. He felt as if, finally, his world had completely collapsed.</p>
+
+
+
+<p>By the following morning the story was around the whole complex. Michael had taken the cat to be put down. Bill’s tiny rebellion had been crushed.</p>
+
+
+
+<p>A few days later, Bill’s neighbour knocked on his door. She had been worried about him, he had seemed so listless and pale. His wife’s death had been a terrible shock, and then there was that dreadful business about the cat. He seemed to be shrinking, and yesterday, when he was sitting on his patio, he had looked so sad, so bereft, so lonely.</p>
+
+
+
+<p>But there was no reply. And there would never again be a reply from Bill Jensen. In the early hours of the morning his heart had given up trying to make sense of the world. He had gone to join Jennifer, where she was waiting for him.</p>
+
+
+
+<p>With Jensen in her arms.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Author’s note:</em></p>
+
+
+
+<p><em>This is a true story, although names and some details have been changed. I work in animal welfare, and I have been told myriad stories about cats that turn up, mysteriously, after a bereavement. The people who tell me these stories firmly believe the animal was ‘sent’ to them for comfort.</em></p>
+
+
+
+<p><em>Unfortunately, most complexes have rules against pets, and I have dealt with far too many traumatised people who have had to give up their animals for euthenasia as a result.</em></p>
+
+
+
+<p><em>Loneliness is the greatest pandemic of the 21<sup>st</sup>&nbsp;century, and this story is an appeal for some compassion.</em></p>
+
+
+
+<p>Further reading:</p>
+
+
+
+<p>The Health Benefits of Pets, <a href="https://www.helpguide.org/articles/mental-health/mood-boosting-power-of-dogs.htm">https://www.helpguide.org/articles/mental-health/mood-boosting-power-of-dogs.htm</a></p>
+
+
+
+<p>Having a pet combats loneliness,&nbsp;<a href="https://www.forbes.com/sites/brucelee/2019/06/02/are-you-feeling-lonely-how-about-getting-a-pet/?sh=771591ee4408">https://www.forbes.com/sites/brucelee/2019/06/02/are-you-feeling-lonely-how-about-getting-a-pet/?sh=771591ee4408</a></p>
+
+
+
+<p>To read more writing from Niki Moore, <a href="https://safreachronicle.co.za/creators/niki-moore/">https://safreachronicle.co.za/creators/niki-moore/</a></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_c3bc26d8-4bd9-4b9f-9f58-a0b4610a1c67" id="consent_check_c3bc26d8-4bd9-4b9f-9f58-a0b4610a1c67" type="checkbox"/><label for="consent_check_c3bc26d8-4bd9-4b9f-9f58-a0b4610a1c67" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+
+
+<p><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fsafreachronicle.co.za%2Ffor-bill-a-visitor-brings-a-terrible-gift%2F&amp;t=The%20Visitor%20%E2%80%93%20a%20Short%20Story"></a></p>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-857" class="post-857 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/bedding-loos-and-toys-for-cats/" rel="bookmark">Caring for my pet cat (Part 3)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/bedding-loos-and-toys-for-cats/" rel="bookmark"><time class="entry-date published" datetime="2023-02-20T14:25:12+00:00">February 20, 2023</time><time class="updated" datetime="2023-05-17T08:18:30+00:00">May 17, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 11c</h2>
+
+
+
+<h2 class="wp-block-heading">What bedding, loos and toys do I provide to my cat?</h2>
+
+
+
+<p>We&#8217;ve looked at what food we need to feed out cats and how to keep them safe in and around the home. This week we&#8217;re taking a closer look at what bedding, loos and toys we should provide to them inside the house.</p>
+
+
+
+<h2 class="wp-block-heading">Bedding</h2>
+
+
+
+<p></p>
+
+
+
+<p>As you know, cats enjoy sleeping just about anywhere and will choose their own favourite spots. In fact, they sometimes sleep in the oddest places and positions that we think can&#8217;t possibly be comfy!  And of course we could provide the most attractive (and expensive) cat cave or cat bed, and they will prefer the cardboard box we haven&#8217;t thrown out yet! </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="260" height="194" data-id="866" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cats-sleeping-in-funny-positions-Quora.jpg?resize=260%2C194&#038;ssl=1" alt="Cat in glass bowl" class="wp-image-866" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Quora</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="269" height="187" data-id="865" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cats-sleeping-in-funny-positions-Design-Swan.jpg?resize=269%2C187&#038;ssl=1" alt="Cat sleeping on laundry rack" class="wp-image-865" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Design Swan</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="275" height="183" data-id="884" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cats-sleeping-in-weird-spots-Cuteness.jpg?resize=275%2C183&#038;ssl=1" alt="Cat sleeping in basin" class="wp-image-884" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Cuteness</figcaption></figure>
+</figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>All we can do, is to place soft bedding materials in baskets or cat caves in secluded, cosy corners and cross our fingers that your pets will use them. What does help immensely, is sprinkling some Happy Cat (<a href="https://iamcat.blog/how-do-i-move-house-with-my-pet-cats/">https://iamcat.blog/how-do-i-move-house-with-my-pet-cats/</a> around in any new bed or igloo to lure our cats into them.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-with-cat-cave-Felt.jpg?resize=442%2C331&#038;ssl=1" alt="Cat with cat cave" class="wp-image-869" width="442" height="331" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Felt</figcaption></figure></div>
+
+
+<p>This is an example of the ideal cat bed: It&#8217;s made from soft, warm fabric, it&#8217;s big enough for at least 2 cats, it has a padded base &#8211; and it will pique your pets&#8217; curiosity. And it&#8217;s attractive to boot! </p>
+
+
+
+<p>You&#8217;ll find there are thousands of cat beds and cat caves to choose from, in shops and online.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Hanging-cat-bed.jpg?resize=298%2C540&#038;ssl=1" alt="Macrame cat bod" class="wp-image-883" width="298" height="540" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Hanging-cat-bed.jpg?resize=565%2C1024&amp;ssl=1 565w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Hanging-cat-bed.jpg?resize=166%2C300&amp;ssl=1 166w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Hanging-cat-bed.jpg?w=571&amp;ssl=1 571w" sizes="(max-width: 298px) 100vw, 298px" data-recalc-dims="1" /><figcaption class="wp-element-caption">A hanging cat bed by Kades from CatPals (see details in text)</figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p class="has-text-align-left">Of course cats love sleeping off the ground, and there are numerous ways in which you can satisfy your pets&#8217; need for height. Check out Google Images for some wonderful examples of hanging or wall-mounted cat beds. And many of them you&#8217;ll be able to make yourself quite inexpensively. </p>
+
+
+
+<p>If you like the look of macrame beds, you may want to contact Kades Lubbe from CatPals in Pretoria. She makes some beautiful ones. You can reach her at 063 582 0298 or at <a href="kadeslubbe7@gmail.com">kadeslubbe7@gmail.com</a> &#8211; and you&#8217;ll be benefiting more cats at the same time!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Loos</h2>
+
+
+
+<p>Cats are clean and neat by nature, so it&#8217;s important that we make sure our pets always have a clean litter box − at least one per cat and one extra. For a kitten you would need one in every room, as your fur baby may not be able to hold out if there is no litter box nearby. Even once your pet has started using the great outdoors, it’s a good idea to keep at least one litter box indoors for rainy days. </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="280" height="180" data-id="872" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Interior-Design-Ideas.jpg?resize=280%2C180&#038;ssl=1" alt="cat emerging from design litter box" class="wp-image-872" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Interior Design Ideas</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="225" height="225" data-id="873" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Takealot.com-2.jpg?resize=225%2C225&#038;ssl=1" alt="Cat litter box" class="wp-image-873" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Takealot.com-2.jpg?w=225&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Takealot.com-2.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Takealot.com</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="225" height="225" data-id="874" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Wayfair.jpg?resize=225%2C225&#038;ssl=1" alt="Cat lying on litter box" class="wp-image-874" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Wayfair.jpg?w=225&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-litter-box-Wayfair.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Wayfair</figcaption></figure>
+</figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>There are different kinds of litter, from wood shavings to &#8216;clumping&#8217; litter and litter made from clay or other materials. Choose what you feel most comfortable with, but avoid very fine litter for kittens, as they tend to want to eat it. Fill the litter box to a depth of about 7 cm, and keep it clean by removing solids twice a day and either removing moist or clumped litter or mixing it in with dry litter.</p>
+
+
+
+<h2 class="wp-block-heading">Toys</h2>
+
+
+
+<p></p>
+
+
+
+<p>You and I know all too well that cats love toys. </p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:61% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="245" height="205" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-toys-Preventive-Vet.jpg?resize=245%2C205&#038;ssl=1" alt="Cat playing with toy" class="wp-image-876 size-full" data-recalc-dims="1"/></figure><div class="wp-block-media-text__content">
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>You can buy all kinds of weird and wonderful toys from shops or your vet. Cats love soft balls or ‘mice’ filled with catnip. I&#8217;ve always found though that cats enjoy the home-made balls made from crumpled paper or foil best! Make sure the toys are too large to swallow. Balls of wool or string aren’t a good idea. They can  become lodged in your pet&#8217;s throat or tangled around his or her neck. And of course you should check that furry toys are not covered in real fur.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+</div></div>
+
+
+
+<p>I hope this has given you some helpful pointers regarding what bedding, loos and toys you can provide to your beloved pets. In Part 4 we&#8217;ll check out scratching posts, jungle gyms and wall shelving for your pets. </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>A cat has absolute emotional honesty: human beings, for one reason or another, may hide their feelings, but a cat does not.</p><cite>Ernest Hemingway</cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat fact of the week</h2>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Your domestic cat shares 95% of his or her DNA with a tiger.</p></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat story 18: Cats of South Africa</h2>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?resize=455%2C456&#038;ssl=1" alt="Cats of South Africa logo" class="wp-image-881" width="455" height="456" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?resize=1021%2C1024&amp;ssl=1 1021w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?resize=768%2C770&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?resize=1532%2C1536&amp;ssl=1 1532w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?w=1320&amp;ssl=1 1320w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/CoSA-logo-final.jpg?w=1980&amp;ssl=1 1980w" sizes="(max-width: 455px) 100vw, 455px" data-recalc-dims="1" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>Cats of South Africa was formed in 2020 as a grouping of NPOs, NGOs groups and individuals who care for cats that are not their own. The idea originated with Niki Moore, who heads up Cats of Durban. So I felt honoured when she asked me to join her as second spokesperson for the group.</p>
+
+
+
+<p>Today there are hundreds of members across South Africa. We communicate via a Google group in order to share pleas for help, information, anecdotes and so forth. </p>
+
+
+
+<p>As our slogan states, we speak for cats, first and foremost. We also act for them. And we are a force to be reckoned with in all matters relating to cats. </p>
+
+
+
+<p>If you would like to join us, we would love to have you! All you need to do, is to mail Niki at catsofsouthafrica@gmail.com, and she will add you. As simple as that!</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_b02066e3-5cef-4566-9580-bc66cc119c27" id="consent_check_b02066e3-5cef-4566-9580-bc66cc119c27" type="checkbox"/><label for="consent_check_b02066e3-5cef-4566-9580-bc66cc119c27" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-825" class="post-825 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/keeping-our-cats-safe-in-and-around-the-home/" rel="bookmark">Caring for my pet cat (Part 2)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/keeping-our-cats-safe-in-and-around-the-home/" rel="bookmark"><time class="entry-date published" datetime="2023-02-06T04:44:44+00:00">February 6, 2023</time><time class="updated" datetime="2023-05-16T08:43:28+00:00">May 16, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 11b</h2>
+
+
+
+<h2 class="wp-block-heading">Keeping our cats safe in and around the home</h2>
+
+
+
+<p></p>
+
+
+
+<p>Most of us are most at risk of injury in and around our own homes. The same goes for our cats too. Keeping our cats safe in and around the home is therefore very important. See Cat Blog 10 at <a href="https://iamcat.blog/confining-a-cat-or-not/">https://iamcat.blog/confining-a-cat-or-not/</a> on whether you should confine your feline family members to your property or not. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Catio-with-bridge.jpg?resize=620%2C464&#038;ssl=1" alt="Catio with bridge" class="wp-image-830" width="620" height="464" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Rover</figcaption></figure></div>
+
+
+<p>But there is also a myriad of potential dangers in and around your home. Watch out for the following, for example &#8211; and you&#8217;ll probably be able to add some of your own:</p>
+
+
+
+<p>• hot stove tops</p>
+
+
+
+<p>• open toilet seats</p>
+
+
+
+<p>• bath water (a kitten could burn or − worse − drown in a bathful of water)</p>
+
+
+
+<p>• poisonous plants or food your cat might nibble on (lilies and chocolates can be extremely detrimental or even lethal to cats)</p>
+
+
+
+<p>• chemical or insecticide sprays on surfaces</p>
+
+
+
+<p>• empty poison bottles</p>
+
+
+
+<p>• chicken or other fine bones that could lodge in your cat’s throat</p>
+
+
+
+<p>• plastic bags that could smother a kitten</p>
+
+
+
+<p>• the washing machine or tumble drier, both of which cats love to climb into</p>
+
+
+
+<p>• buckets and other containers filled with water that a kitten could drown in</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-sleeping-on-wheel-of-car.jpg?resize=508%2C338&#038;ssl=1" alt="Cat sleeping on wheel of car" class="wp-image-831" width="508" height="338" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Rover</figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<p>Also make sure that you inspect your car each time before you drive off. Your kitten or cat could be sleeping on or under a wheel or even in the engine itself.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Check spaces such as cupboards, garages and tool sheds before locking up for the night or when you leave the house. Make sure you don’t inadvertently shut your pet away for hours (or days) without food or water.</p>
+
+
+
+<p>As mentioned in Cat Blog 10, you could fortify your fencing by means of a solar-powered electrical unit or physical barriers such as the Oscillot. Check out the internet or chat to a company such as Pet Safety Solutions (<a href="http://petsafetysolutions.co.za/">http://petsafetysolutions.co.za/</a>). Alternatively use overhead netting or have a ‘catio’ erected in your garden. To prevent cats from climbing trees and thus scaling a wall, wrap plastic bottles that have been cut open lengthwise around the trunks.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cat-with-children-Great-Pet-Care.jpg?resize=590%2C393&#038;ssl=1" alt="Children with a cat" class="wp-image-833" width="590" height="393" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Great Pet Care</figcaption></figure></div>
+
+
+<p>Also remember that very small children don’t always know what might hurt an animal. A child’s passionate (but unwittingly rough) stroking or patting could harm your cat. So keep an eye on kiddies who want to ‘play with the kitty’, for their sake as well as your cat’s.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>A good idea is to make it a rule that your kids may only hold your kitten or cat while they themselves are seated. This will protect your pet from being carried around too much and possibly being hurt.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Cats rule the world. </p><cite>Jim Davis</cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat Story 17: Looking for Luka</h2>
+
+
+
+<p></p>
+
+
+
+<p>This week I&#8217;m bringing you another story to lift your spirits &#8211; the story of Luka, who went missing and then turned up 23 days later. The story is told by a remarkable human: Niki Moore, who heads up a remarkable organisation &#8211; Cats of Durban. This is how she tells it.</p>
+
+
+
+<p></p>
+
+
+
+<p>&#8216;It&#8217;s the call that every parent dreads:&nbsp;&#8220;Sorry to tell you, but your child is missing.&#8221;&nbsp; This is the nightmare that interrupted Roma and Ashar&#8217;s holiday in Cape Town on January 3rd.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;They had left their beloved cat Luka at a pet sitter in their home city of Durban while they went on holiday.&nbsp; Black-and-white Luka is an indoor cat and therefore they had thought that he would be very happy at the foster home.&nbsp;But it appears that Luka decided to make a break for freedom &#8230; he managed to push out a loose air-conditioner fitting and escape.&nbsp;</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Luka.jpg?resize=435%2C580&#038;ssl=1" alt="Sleeping black cat" class="wp-image-849" width="435" height="580" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Luka.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Luka.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Luka.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Luka.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 435px) 100vw, 435px" data-recalc-dims="1" /><figcaption class="wp-element-caption">This is Luka. He has a white patch on his chest, and the collar is a welcome-home present.</figcaption></figure></div>
+
+
+<p>&#8216;The pet sitter was distraught but thought that Luka might turn up on his own.&nbsp;He was, after all, a house cat and it was unlikely he would travel far.&nbsp;But after a few days, with no sign of the black-and-white bandit, she was compelled to notify the owners and begin a search in the neighbourhood. Roma and Ashar returned home immediately and began combing the streets.&nbsp;They printed flyers and distributed them around the neighbourhood.&nbsp;Every day they would search in a new part of the suburb.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;It was two weeks later that a resident in a housing complex around 6 km from the pet-sitters home noticed a strange cat in her garden.&nbsp;The trustees of the complex had circulated a picture of Luka with a request that people should be on the lookout.&nbsp; This strange cat was definitely black and white &#8211; but was it Luka?&nbsp;It was difficult to see because the new stray cat was thin and very elusive &#8211; the moment anyone approached he would run away.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;Immediately a rescue attempt swung into motion.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;It was not a straightforward operation: the complex has very strict privacy and access rules.&nbsp;The body corporate first had to agree that trappers from Cats of Durban could come into the complex to try to trap Luka, they were given a limited window of opportunity for access, they had to be accompanied by a security guard, they were only given a week to make the attempt, and there was not even any certainty that this stray cat was, indeed, Luka.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;For a whole week, the trappers from Cats of Durban would arrive with traps to set up at strategic places around the complex, only to find that &#8216;Luka&#8217; had been very visible all day long but had decided to vanish as soon as the trappers turned up.&nbsp;It&#8217;s called &#8220;Cat&#8217;s Law&#8221; and it is very common.&nbsp;Cats are very easy animals &#8230; until you specifically need them to do something.&nbsp;That is when the &#8220;Law of Being a Difficult Cat&#8221; kicks in.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;In the event, the week expired with still no official sighting of Luka.&nbsp;The window of opportunity for Cats of Durban to trap Luka had closed.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;The only option left was to recruit a cat-loving resident of the complex, Sameera, leave a trap with her (Sameera has trapped cats before), and hope for the best.&nbsp; &nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;It was the very next night that the security guard at the front gate of the complex made an urgent call to Sameera. There was a black and white cat sitting at the door of his security hut, washing himself.&nbsp; Sameera hastened over with the trap, but found she did not even need it.&nbsp;The black and white cat simply allowed himself to be picked up and nestled into her arms.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8216;Sameera put in an urgent call to Roma and Ashar, who dropped everything and drove over at once.&nbsp; They confirmed immediately that this was Luka &#8211; thin and dirty, but definitely their beloved Luka.&nbsp;He had been gone for 23 days and had evaded capture for a week. Perhaps he had now simply decided that the adventure was over and it was time to go home.&#8217;&nbsp;&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cats-of-Durban-pic-1.jpeg?resize=383%2C512&#038;ssl=1" alt="Feral cats feeding in an ally" class="wp-image-850" width="383" height="512" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cats-of-Durban-pic-1.jpeg?w=767&amp;ssl=1 767w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/02/Cats-of-Durban-pic-1.jpeg?resize=225%2C300&amp;ssl=1 225w" sizes="(max-width: 383px) 100vw, 383px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Some of the numerous cats Cat of Durban care for</figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<p>As I mentioned above, Cats of Durban is a remarkable organisation. As they state on their website, &#8216;Cats of Durban is about &#8230; the cats of Durban.&#8217; Their main focus is the community or &#8216;feral&#8217; cats of the city. They do not remove cats, but rather trap, sterilise and return them. They encourage people to care for their cats and educate businesses in particular about the vital role community cats play. </p>
+
+
+
+<p>They focus solely on creating an environment in which all cats are wanted and cared for.&nbsp;They believe that the only way in which to achieve this, is through sterilisation, which they regard as their core duty.&nbsp;They therefore use all donations for sterilisations.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>You&#8217;ll find more information about Cats of Durban on their website at <a href="https://www.catsofdurban.co.za/">https://www.catsofdurban.co.za/</a>. </p>
+
+
+
+<p>But they can&#8217;t do it without our help. Won&#8217;t you please donate? </p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_ad634a65-e26b-4a27-9b2e-3304f8ba6e90" id="consent_check_ad634a65-e26b-4a27-9b2e-3304f8ba6e90" type="checkbox"/><label for="consent_check_ad634a65-e26b-4a27-9b2e-3304f8ba6e90" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-787" class="post-787 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/what-do-i-feed-my-cat/" rel="bookmark">Caring for my pet cat (Part 1)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/what-do-i-feed-my-cat/" rel="bookmark"><time class="entry-date published" datetime="2023-01-22T04:49:18+00:00">January 22, 2023</time><time class="updated" datetime="2023-05-17T08:09:11+00:00">May 17, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 11a</h2>
+
+
+
+<h2 class="wp-block-heading">What do I feed my cat?</h2>
+
+
+
+<p>For the next few weeks we&#8217;ll be chatting about how to care for our own pet cats. And of course the question &#8216;What do I feed my cat?&#8217; is one of the most important we need to talk about.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=480%2C320&#038;ssl=1" alt="Cat surrounded by dishes of food" class="wp-image-789" width="480" height="320" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-surrounded-by-food.png?w=1320&amp;ssl=1 1320w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Daily Paws</figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<p>Fortunately, it&#8217;s actually quite simple: Ensure that you feed your kittens or cats one of the balanced, nutritional and tasty dry cat foods that are supplied by our vets. This will meet all your pet’s nutritional needs, and will ensure that he or she enjoys a long and healthy life. Although these foods seem expensive, smaller amounts are needed compared with supermarket brands. And since these foods will keep our pets healthier, you will save on vets’ bills in the long run. Brand names that are recommended in South Africa are for example Royal Canin, Iams and Hill’s Science Diet. But if you would prefer to feed your pet a vegan diet, don&#8217;t be concerned. According to a top veterinary specialist physician I consulted, this is completely feasible. The important thing is that you do your homework well, and that you make sure your pet receives the correct kind of protein.</p>
+
+
+
+<p>Also ensure that your kitten or cat always has fresh water. If you would like to give your pet treats, keep them small. And keep in mind that fish or dairy milk can give cats, especially kittens, diarrhoea.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Dry food or wet food?</h2>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-eating-CPC-Cares.jpg?resize=307%2C204&#038;ssl=1" alt="Cat eating from dish" class="wp-image-801" width="307" height="204" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: CPC Cares</figcaption></figure></div>
+
+
+<p>The vets I&#8217;ve asked this question of all seem to agree: Feed your pet good quality dry food as a staple, and give her or him a little wet food once a day as a treat. </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Scheduled feeding versus free-choice feeding</h2>
+
+
+
+<p>You&#8217;ve probably also often wondered whether free feeding is bad for your special feline. It seems the answer is that it depends on your cat. If your cat can regulate his or her food intake throughout the day, they can maintain a healthy body weight even when food is always available. </p>
+
+
+
+<p>&#8216;Many cats, however, benefit from a more structured feeding schedule, particularly cats on a wet or mixed food diet, those that are prone to overeating or those in households with multiple cats with differing nutritional needs. A cat’s feeding schedule can be divided into two, three or four meals spread across the day — whatever works best for your schedule. Just divide your cat’s daily amount of food into the number of meals you choose, and don’t go more than 12 hours between feeding times to help avoid upsetting your cat’s stomach&#8217; (<a href="https://www.iams.com/cat/cat-articles/understanding-your-cats-eating-habits">https://www.iams.com/cat/cat-articles/understanding-your-cats-eating-habits</a>).</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">How do I change my cats&#8217; brand of food?</h2>
+
+
+
+<p>Make sure that you introduce the new food very gradually by initially mixing very small amounts in with their existing food. Then gradually, over a matter of about a week to ten days, increase the proportions until you’re feeding only the new food. It&#8217;s also a good idea to pre-mix the food and keep the mixture in a container for a day or two. This will ensure that the new food takes on the smell of the old food. But the more slowly you do it, the better, else there is a chance your cat will reject the new food.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="310" height="163" data-id="792" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-with-human-food.jpg?resize=310%2C163&#038;ssl=1" alt="Cat with human food" class="wp-image-792" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-with-human-food.jpg?w=310&amp;ssl=1 310w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-with-human-food.jpg?resize=300%2C158&amp;ssl=1 300w" sizes="(max-width: 310px) 100vw, 310px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: The Dodo</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="259" height="194" data-id="791" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-pulling-up-its-nose-at-food.jpg?resize=259%2C194&#038;ssl=1" alt="Cat screwing up its nose" class="wp-image-791" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Fetch Pet Insurance</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="275" height="183" data-id="793" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-examining-food.jpg?resize=275%2C183&#038;ssl=1" alt="Cat examining strange food" class="wp-image-793" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Freepik</figcaption></figure>
+</figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">What foods should I not feed?</h2>
+
+
+
+<p>Don&#8217;t feed your pet dogfood, as it doesn&#8217;t contain all the nutrients she or he needs. Also be cautious of feeding human food, as not all human food will agree with your cat. And any additional food besides good quality cat food could disturb the balance of nutrients your cat needs. </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">What foods are toxic to my pet?</h2>
+
+
+
+<p>Daily Paws provides an extensive list. Check it out at: <a href="https://www.dailypaws.com/cats-kittens/cat-nutrition/what-can-cats-eat/foods-toxic-to-cats">https://www.dailypaws.com/cats-kittens/cat-nutrition/what-can-cats-eat/foods-toxic-to-cats</a></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">What do I do if my cat won&#8217;t eat?</h2>
+
+
+
+<p></p>
+
+
+
+<p>I think every human cat companion worries when his or her cat suddenly stops eating. We know that this is probably not a good sign, and we fret about what could be causing it.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-that-wont-eat.jpg?resize=428%2C285&#038;ssl=1" alt="" class="wp-image-795" width="428" height="285" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Daily Paws</figcaption></figure></div>
+
+
+<p>Your cat&#8217;s hunger strike could have a number of different causes, including health problems, anxiety, hair balls or other foreign objects &#8211; or the food itself. </p>
+
+
+
+<p>You&#8217;ll find a good deal of insightful information at <a href="https://www.dailypaws.com/cats-kittens/cat-nutrition/cat-food/cat-not-eating">https://www.dailypaws.com/cats-kittens/cat-nutrition/cat-food/cat-not-eating</a>. Here’s wishing you simple solutions to all your cat food problems!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Feel free to send me your questions and queries, either as a comment to this blog or to anneke@ncat.co.za. And here&#8217;s wishing you solutions to all your cat food problems!</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-digging-in.jpg?resize=660%2C232&#038;ssl=1" alt="Cat tucking in" class="wp-image-800" width="660" height="232" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-digging-in.jpg?w=379&amp;ssl=1 379w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cat-digging-in.jpg?resize=300%2C105&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: Hill&#8217;s Pet</figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>See Cat Blog 2b at <a href="https://iamcat.blog/feral-cats-how-can-i-help-them-continued/">https://iamcat.blog/feral-cats-how-can-i-help-them-continued/</a> on how to feed community (feral) cats.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat fact of the week</h2>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Cats have over 400 taste buds, but none for sweetness.</p></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Way down deep, we’re all motivated by the same urges. Cats have the courage to live by them.</p><cite>Jim Davis</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Cat Story 16: For all the rescuers out there</h2>
+
+
+
+<p></p>
+
+
+
+<p>This week I want to honour every single person who rescues cats in any way: the caregivers, the trappers, the fosterers, the sanctuary owners, the homers, the letter writers, the street protesters &#8211; and of course the wonderful vets and their teams. And I would like to do it by quoting this wonderful piece that someone Whatsapped me this week.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="300" height="168" data-id="815" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/People-helping-cats-The-Courier-Mail-1.jpg?resize=300%2C168&#038;ssl=1" alt="" class="wp-image-815" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: The Courier Mail</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="307" height="164" data-id="813" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/People-helping-cats-BeChewy.jpg?resize=307%2C164&#038;ssl=1" alt="Kitten drinking from bottle" class="wp-image-813" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/People-helping-cats-BeChewy.jpg?w=307&amp;ssl=1 307w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/People-helping-cats-BeChewy.jpg?resize=300%2C160&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Pic: BeChewy</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="262" height="192" data-id="812" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/People-helping-cats-Alamy.jpg?resize=262%2C192&#038;ssl=1" alt="Man with feral cats" class="wp-image-812" data-recalc-dims="1"/><figcaption class="wp-element-caption">Pic: Alamy</figcaption></figure>
+</figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p><strong>To Love A Rescuer</strong><br><br>To love a rescuer, you must love all of them. You must love the scars covering their body from panicked and hurt animals they were trying to help. You must love their fractured heart, that has been broken so many times they no longer even take the time to mend the pieces.<br><br>To love a rescuer, you must embrace their grit and determination, and know that although they fight a war they can never win, they can and do win a few battles. You must love the tears they will shed over those they lost. You must give them comfort that they refuse to accept, as they blame themselves for things they could have never foreseen.<br><br>To love a rescuer, you must acknowledge the rage they feel towards the world at times, and know that anger is driven by a love of life too few have. You must give them space and room to cry and mourn for the losses that others have caused out of carelessness or cruelty.<br><br>To love a rescuer, you must understand their passion to heal and save is a calling, not a choice. You must accept that to save animals is part of their soul and without that they could never be happy.<br><br>To love a rescuer, you must be patient. You must accept their work comes first. They will forgo sleep, forgo food, forgo their life for animals in need. They will work tirelessly until their body and mind fail them completely and they cannot go on.<br><br>To love a rescuer, you must be strong. You must not be threatened by their focus and love of animals. You must accept that the things you love about them, the strength and convictions and loyalty, are also what drives their sense of duty to animals in need; you cannot have one without the other.”<br></p><cite>Author unknown</cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_301ab735-6409-43f7-9fb0-0303d90715a9" id="consent_check_301ab735-6409-43f7-9fb0-0303d90715a9" type="checkbox"/><label for="consent_check_301ab735-6409-43f7-9fb0-0303d90715a9" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-752" class="post-752 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/confining-a-cat-or-not/" rel="bookmark">Do I confine my cat or not?</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/confining-a-cat-or-not/" rel="bookmark"><time class="entry-date published" datetime="2023-01-15T06:52:11+00:00">January 15, 2023</time><time class="updated" datetime="2023-01-15T06:52:20+00:00">January 15, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 10</h2>
+
+
+
+<h2 class="wp-block-heading">Confining a cat or not</h2>
+
+
+
+<p>Like me you&#8217;ve probably been thinking about whether or not you should somehow be confining your cats. I have no definitive answer about confining a cat or not either, but I thought I could present you with some of the pros and cons. And perhaps you could send me your thoughts as well to add interest to the debate. Together we will figure it out and even begin formulating some guidelines.</p>
+
+
+
+<h2 class="wp-block-heading">Catios</h2>
+
+
+
+<p>I can think of a few cons regarding the use of catios:</p>
+
+
+
+<ul>
+<li>Many cat lovers feel strongly that their cats should have complete freedom to live as nature intended them to live.</li>
+
+
+
+<li>They also worry that their cats will become bored in confinement, and may even acquire one of the disorders that understimulated cats can develop.</li>
+
+
+
+<li>Some of us can&#8217;t afford the cost of having a catio built or a cat-proof fence erected.</li>
+
+
+
+<li>Apartment dwellers may feel that they simply don&#8217;t have the required space.</li>
+</ul>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catios-for-apartments.jpg?resize=527%2C395&#038;ssl=1" alt="Catio for apartment living" class="wp-image-757" width="527" height="395" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>Catio for apartment living</strong></figcaption></figure></div>
+
+
+<p>According to Alan Breslauer, aka The Catio Guy and owner of Custom Catios in Los Angeles, there are even more pros (<a href="https://pasadenahumane.org/5-benefits-to-investing-in-a-catio/">https://pasadenahumane.org/5-benefits-to-investing-in-a-catio/</a>):</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="634" height="389" data-id="754" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-small.png?resize=634%2C389&#038;ssl=1" alt="Small catio" class="wp-image-754" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-small.png?w=634&amp;ssl=1 634w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-small.png?resize=300%2C184&amp;ssl=1 300w" sizes="(max-width: 634px) 100vw, 634px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="283" height="178" data-id="755" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-large.jpg?resize=283%2C178&#038;ssl=1" alt="Large catio" class="wp-image-755" data-recalc-dims="1"/></figure>
+</figure>
+
+
+
+<p>Images: Metairie Small Animal Hospital, New Orleans</p>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li>The health and safety of the cats, which are probably self-evident. Cats that are confined are not exposed to cars, dogs, cat fights, irate humans or poison. Breslauer cites Jackson Galaxy in referring to catios as &#8216;the great compromise&#8217;, allowing cats &#8216;to have access to fresh air and sunshine, to see birds and bugs, and to experience a little bit of what comes with outdoor living&#8217;.
+<ul></ul>
+</li>
+
+
+
+<li>Breslauer also mentions the fact that human cat companions tend to sleep better when their furballs have access to the outdoors at dawn.</li>
+
+
+
+<li>In addition litter boxes can be moved outdoors, which cats seem to prefer in any event.</li>
+
+
+
+<li>And then a biggie: protecting wildlife. Estimates of the number of birds and small mammals killed by cats tend to be wildly exaggerated. However, it stands to reason that cats that can only watch wildlife from a safe distance cannot add to the number of prey.</li>
+</ul>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catios-2.jpg?resize=620%2C443&#038;ssl=1" alt="Cat in catio with sea view" class="wp-image-756" width="620" height="443" data-recalc-dims="1" /></figure></div>
+
+
+<h2 class="wp-block-heading">Fencing</h2>
+
+
+
+<p>I think most of us would prefer to keep our cats on our premises &#8211; especially if we have ample space. Cat guardians the world over make use of a number of different methods to achieve this:</p>
+
+
+
+<p>Roller-type fencing such as the Australian Oscillot (<a href="http://www.youtube.com/watch?v=i-8x22Ce55I&amp;feature=endscreen&amp;NR=1">http://www.youtube.com/watch?v=i-8x22Ce55I&amp;feature=endscreen&amp;NR=1</a>). If you live in Gauteng, Morné from Pet Safety Solutions (079 045 6185 or <a href="http://petsafetysolutions.co.za/">http://petsafetysolutions.co.za</a>) will be able to install this – and any other safety system – for you. (See more on them in Cat story 15 below.)</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="660" height="528" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Oscillot-1.jpg?resize=660%2C528&#038;ssl=1" alt="The Oscillot fence" class="wp-image-759 size-full" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Oscillot-1.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Oscillot-1.jpg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Oscillot-1.jpg?resize=768%2C614&amp;ssl=1 768w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure><div class="wp-block-media-text__content">
+<p>Roller-type fencing such as the Australian Oscillot (<a href="http://www.youtube.com/watch?v=i-8x22Ce55I&amp;feature=endscreen&amp;NR=1">http://www.youtube.com/watch?v=i-8x22Ce55I&amp;feature=endscreen&amp;NR=1</a>). If you live in Gauteng, Morné from Pet Safety Solutions (079 045 6185 or <a href="http://petsafetysolutions.co.za/">http://petsafetysolutions.co.za</a>) will be able to install this – and any other safety system – for you.</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full"><img loading="lazy" decoding="async" width="520" height="275" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/pet-stop-solar-powered-kit-7258-lg.jpg?resize=520%2C275&#038;ssl=1" alt="PetStop solar kit" class="wp-image-760" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/pet-stop-solar-powered-kit-7258-lg.jpg?w=520&amp;ssl=1 520w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/pet-stop-solar-powered-kit-7258-lg.jpg?resize=300%2C159&amp;ssl=1 300w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1" /></figure></div>
+
+
+<p>Alternatively you could install something like the Pet Stop solar-powered kit along your fence (<a href="https://www.nemtek.co.za/equineandpet/Pet-Systems/pet-stop-solar-powered-kit.aspx">https://www.nemtek.co.za/equineandpet/Pet-Systems/pet-stop-solar-powered-kit.aspx</a>).</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="329" height="245" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Netting-to-confine-cats.jpg?resize=329%2C245&#038;ssl=1" alt="Netting to confine cats" class="wp-image-761 size-full" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Netting-to-confine-cats.jpg?w=329&amp;ssl=1 329w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Netting-to-confine-cats.jpg?resize=300%2C223&amp;ssl=1 300w" sizes="(max-width: 329px) 100vw, 329px" data-recalc-dims="1" /></figure><div class="wp-block-media-text__content">
+<p>Another option is unobtrusive netting. This kind of netting is available from e.g. Bird Control&nbsp; in Somerset West, 021 300 1623, or from Pet Safety Solutions in Gauteng (see contact details above and/or Cat Story 15 below).</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Non-electrified-cat-fencing.jpg?resize=446%2C335&#038;ssl=1" alt="Non-electrified cat fencing" class="wp-image-763" width="446" height="335" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Non-electrified-cat-fencing.jpg?w=328&amp;ssl=1 328w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Non-electrified-cat-fencing.jpg?resize=300%2C225&amp;ssl=1 300w" sizes="(max-width: 446px) 100vw, 446px" data-recalc-dims="1" /></figure></div>
+
+
+<p>Non-electrified fencing bent inwards, wires closely spaced, keep cats inside property. (You could use a greater inward angle to make it more difficult for cats to negotiate.)</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="327" height="245" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Plastic-bottles-wrapped-around-tree.jpg?resize=327%2C245&#038;ssl=1" alt="Plastic bottles wrapped around trees to prevent cats escaping" class="wp-image-764 size-full" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Plastic-bottles-wrapped-around-tree.jpg?w=327&amp;ssl=1 327w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Plastic-bottles-wrapped-around-tree.jpg?resize=300%2C225&amp;ssl=1 300w" sizes="(max-width: 327px) 100vw, 327px" data-recalc-dims="1" /></figure><div class="wp-block-media-text__content">
+<p>A particularly clever trick to keep cats from escaping from your property by climbing trees is wrapping plastic bottles that have been cut open around the trees.</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<p>So in conclusion, what are your thoughts about confining your cats &#8211; or not? I would love to hear from you!</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>         Cats are connoisseurs of comfort.</p><cite>James Herriot</cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat Story 15: Pet Safety Solutions, Gauteng</h2>
+
+
+
+<p>Five years ago, in 2018, Morné Combrink decided that he wanted to commit himself to helping pet owners keep their pets safe. And so Pet Safety Solutions was born, and their slogan says it all: &#8216;Their safety is our concern&#8217;.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?resize=537%2C205&#038;ssl=1" alt="Logo Pet Safety Solutions" class="wp-image-768" width="537" height="205" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?resize=1024%2C392&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?resize=300%2C115&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?resize=768%2C294&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?resize=1536%2C588&amp;ssl=1 1536w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?w=1571&amp;ssl=1 1571w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Lobo-PSS.jpg?w=1320&amp;ssl=1 1320w" sizes="(max-width: 537px) 100vw, 537px" data-recalc-dims="1" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>He was more qualified than most for the job. In addition to having all the necessary skills to do the job, he had been supporting partner Charlene in her tireless work with community (feral) cats in Pretoria for many years. He was also the long-time Chairperson of the Pretoria based NPO Be Wise Sterilise.</p>
+
+
+
+<p>But nothing tells us more about Morné than the long record of imaginative and meticulous work he has done at the homes of countless pet owners, mostly in Gauteng and the Western Cape but also further afield.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="660" data-id="769" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-aluminium-Pet-Safety-Solutions.jpg?resize=660%2C660&#038;ssl=1" alt="Aluminium catio by Pet Safety Solutions" class="wp-image-769" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-aluminium-Pet-Safety-Solutions.jpg?w=720&amp;ssl=1 720w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-aluminium-Pet-Safety-Solutions.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-aluminium-Pet-Safety-Solutions.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="660" data-id="770" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-on-stilts-PSS.jpg?resize=660%2C660&#038;ssl=1" alt="Window catio on stilts Pet Safety Solutions" class="wp-image-770" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-on-stilts-PSS.jpg?w=780&amp;ssl=1 780w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-on-stilts-PSS.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-on-stilts-PSS.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-on-stilts-PSS.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="660" data-id="771" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-gumple-PSS.jpg?resize=660%2C660&#038;ssl=1" alt="Gumpole catio by Cat Safety Solutions" class="wp-image-771" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-gumple-PSS.jpg?w=720&amp;ssl=1 720w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-gumple-PSS.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-gumple-PSS.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+</figure>
+
+
+
+<p class="has-text-align-center"><strong>Aluminium catio, window catio on stilts and gumpole catio by Cat Safety Solutions</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>See their website at <a href="http://petsafetysolutions.co.za/">http://petsafetysolutions.co.za/</a> for more examples of the many services they offer, including catios, window catios, enclosures, fencing and roller-fencing, and even cat traps for feral caregivers! And needless to say, it is all bespoke: especially designed and built for your pets in your particular situation. </p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-interior-PSS-2.jpg?resize=378%2C378&#038;ssl=1" alt="Catio interior" class="wp-image-774" width="378" height="378" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-interior-PSS-2.jpg?w=532&amp;ssl=1 532w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-interior-PSS-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-interior-PSS-2.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 378px) 100vw, 378px" data-recalc-dims="1" /></figure></div>
+
+
+<p class="has-text-align-center"></p>
+
+
+
+<p>There really seems to be nothing that Morné and his team can&#8217;t do or won&#8217;t do to ensure your satisfaction and your pet&#8217;s safety. </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>The interior of a catio created by Pet Safety Solutions</strong></p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-with-cats-PSS.jpg?resize=410%2C410&#038;ssl=1" alt="Window catio with cats" class="wp-image-776" width="410" height="410" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-with-cats-PSS.jpg?w=540&amp;ssl=1 540w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-with-cats-PSS.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Catio-window-with-cats-PSS.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>A window catio being enjoyed by the resident cats</strong></figcaption></figure></div>
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Contact them at office@petsafetysolutions.com or at +27 79 045 6185.</p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title"><br><br><br><br><br>Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title"><br><br><br><br><br>Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_602db0ac-aa53-4657-89d1-704b864e489b" id="consent_check_602db0ac-aa53-4657-89d1-704b864e489b" type="checkbox"/><label for="consent_check_602db0ac-aa53-4657-89d1-704b864e489b" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-723" class="post-723 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/homing-a-kitten-or-a-cat/" rel="bookmark">How do I home a kitten or a cat?</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/homing-a-kitten-or-a-cat/" rel="bookmark"><time class="entry-date published" datetime="2023-01-08T09:50:49+00:00">January 8, 2023</time><time class="updated" datetime="2023-01-08T09:50:57+00:00">January 8, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 9</h2>
+
+
+
+<h2 class="wp-block-heading">Homing a kitten or a cat</h2>
+
+
+
+<p></p>
+
+
+
+<p>Homing a kitten or a cat is of course a serious responsibility. If you&#8217;re feeling anxious about finding the right home, that&#8217;s to be expected because you care! There are a number of ways you could go about it. </p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/11/Kitten-in-basket.jpg?resize=446%2C279&#038;ssl=1" alt="Tiny kitten in a basket" class="wp-image-425" width="446" height="279" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/11/Kitten-in-basket.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/11/Kitten-in-basket.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/11/Kitten-in-basket.jpg?resize=768%2C480&amp;ssl=1 768w" sizes="(max-width: 446px) 100vw, 446px" data-recalc-dims="1" /></figure></div>
+
+
+<p>You could contact your local humane society. You would need to do this a few weeks before the kitten(s) are old enough, as you may need to place them on a waiting list. If you would like to home the kitten(s) or cat yourself, you post ads with clear pics on the animal welfare pages. You would also need to screen prospective owners yourself. This can be quite nerve-wracking, as you know that the little creature&#8217;s future will depend largely on your decisions. </p>
+
+
+
+<p>You could ask interested parties the following sorts of questions:</p>
+
+
+
+<ul>
+<li>How many animals do you have? (If they have too many, they may be ‘collectors’ or ‘hoarders’.)</li>
+
+
+
+<li>Do you have any dangerous dogs? (Be especially wary of German Shepherds, who have been known to be cat killers, and dogs like staffies, who may be too boisterous.)</li>
+
+
+
+<li>How old is your youngest child? (Children younger than two may harm a kitten without meaning to, and it is almost impossible to supervise kids 24/7. Also beware of people who want to adopt a kitten ‘for my little girl/boy’. The child may lose interest after a few days, and if the parents were not interested to begin with, the kitten may become a neglected cat.)
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="347" data-id="735" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-1.jpg?resize=660%2C347&#038;ssl=1" alt="" class="wp-image-735" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-1.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-1.jpg?resize=300%2C158&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-1.jpg?resize=768%2C403&amp;ssl=1 768w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="708" data-id="736" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-2.jpg?resize=660%2C708&#038;ssl=1" alt="Cat rubbing against dog" class="wp-image-736" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-2.jpg?w=728&amp;ssl=1 728w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-2.jpg?resize=280%2C300&amp;ssl=1 280w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="495" data-id="737" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-3.jpg?resize=660%2C495&#038;ssl=1" alt="Cat sleeping under dog's ear" class="wp-image-737" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-3.jpg?w=728&amp;ssl=1 728w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Cats-and-dogs-3.jpg?resize=300%2C225&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+</figure>
+
+
+
+<p>Images: RearFront</p>
+
+
+
+<p></p>
+
+
+
+<p>You could also ask questions about where the kitten or cat will be sleeping and what food the prospective owner will give him or her. And simply chat to the person to get a ‘feel’ for the kind of person you&#8217;re speaking to.</p>
+
+
+
+<p>If possible, have the kitten or cat adopted through an ‘adoption package’, which most rescue organisations can arrange. Then you will be able to rest assured that the new owner will take the kitten or cat for its important shots, deworming and a microchip. It&#8217;s also vital that the new owner should have the kitten or young cat sterilised at the correct age.</p>
+
+
+
+<p>It&#8217;s very important not to allow new owners to collect the kitten or cat from you. Rather deliver them to their new home yourself. That way you&#8217;ll be able to check whether everything is above board. You&#8217;ll also be able to help settle the cat or kitten in safely. Ensure for example that a kitten cannot get out of the house or flat for the first few months, and an adult cat for the first month. See Cat Blog 5a and 5 b (beginning at <a href="https://iamcat.blog/introducing-a-new-kitten-or-cat-to-my-existing-pets-part-1/">https://iamcat.blog/introducing-a-new-kitten-or-cat-to-my-existing-pets-part-1/</a>) on how to introduce a new kitten or cat to a home. If possible, have the new owner read it too!</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>When the cat you love becomes a memory, the memory becomes a treasure.</p><cite>Anonymous</cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat fact of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The oldest cat in the world was 38 years and 3 days old!</p></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Cat Story 14: Stevie&#8217;s Cat Haven</h2>
+
+
+
+<p><strong>Stevie&#8217;s Cat Haven&nbsp;</strong><strong></strong></p>
+
+
+
+<p>If you&#8217;ve ever been fortunate enough to visit John Bonnard&#8217;s wonderful sanctuary Stevie&#8217;s Cat Haven near Pretoria, you&#8217;ll understand why I describe it as heaven on earth for cats. And I don&#8217;t use those words to describe many places. Visit John’s Facebook page to view a photo trip around the sanctuary at <a href="https://www.facebook.com/john.bonnard">https://www.facebook.com/john.bonnard</a>.</p>
+
+
+
+<p>John began the haven 8 years ago, when he took in a number of cats from another sanctuary that lacked suitable housing for the cats.</p>
+
+
+
+<p>And that was the beginning.</p>
+
+
+
+<p>Today the haven comprises 2 large enclosures &#8211; one for adoptable tame cats and one for non-adoptable community (&#8216;feral&#8217;) cats.</p>
+
+
+
+<p>John usually leads visitors to the enclosure for community cats to begin with. And one&#8217;s first sensation is that of delight, as all the semi-tame cats and even some of the &#8216;wild&#8217; cats come rushing to the entrance to greet you. No doubt they believe that dinner time has come early!</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1.jpg?resize=556%2C417&#038;ssl=1" alt="Cats in a sanctuary" class="wp-image-733" width="556" height="417" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?w=1320&amp;ssl=1 1320w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-1-scaled.jpg?w=1980&amp;ssl=1 1980w" sizes="(max-width: 556px) 100vw, 556px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>A section of the &#8216;feral&#8217; enclosure</strong></figcaption></figure></div>
+
+
+<p>Next you become aware of space, and of trees (with cats on the higher branches), and of numerous cosy kennels, Wendy houses and other shelters. The grass is kept long in some areas to afford the cats additional hiding and snoozing spots.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Johns-sanctuary-1.jpg?resize=478%2C232&#038;ssl=1" alt="Cat in tree" class="wp-image-734" width="478" height="232" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Johns-sanctuary-1.jpg?resize=1024%2C498&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Johns-sanctuary-1.jpg?resize=300%2C146&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Johns-sanctuary-1.jpg?resize=768%2C373&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Johns-sanctuary-1.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 478px) 100vw, 478px" data-recalc-dims="1" /></figure></div>
+
+
+<p>The visitor&#8217;s general feeling is one of upliftment, as all the cats seem healthy, happy and calm &#8211; except for a few warning hisses at pushy fellow residents. </p>
+
+
+
+<p>After spending some time taking it all in, the guest is invited to the tame enclosure.</p>
+
+
+
+<p>Here new delights await the cat lover. A number of cats clamour for attention, tails very straight up in the air. As we settle down, several cats jump onto the table, and a few press up against us, purring loudly in anticipation of our stroking.</p>
+
+
+
+<p>Again it becomes evident that these cats have everything a healthy, happy cat could possibly want. After much caressing, ear fondling and jaw tickling, we come to the end of the visit. And we take our leave with joyful hearts.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="741" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-3.jpg?resize=660%2C880&#038;ssl=1" alt="Sanctuary cats welcoming the visitor" class="wp-image-741" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-3.jpg?w=768&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-3.jpg?resize=225%2C300&amp;ssl=1 225w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="742" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-1.jpg?resize=660%2C880&#038;ssl=1" alt="Sanctuary cats" class="wp-image-742" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-1.jpg?w=768&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-1.jpg?resize=225%2C300&amp;ssl=1 225w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="743" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-2.jpg?resize=660%2C880&#038;ssl=1" alt="Sanctuary cats" class="wp-image-743" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-2.jpg?w=768&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2023/01/Stevies-tame-enclosure-2.jpg?resize=225%2C300&amp;ssl=1 225w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+</figure>
+
+
+
+<p>                                                <strong>Some of the cats in the &#8216;tame&#8217; enclosure</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>Of course there are difficulties here too. Some cats arrived with FeLV and have to be kept separate from the healthy cats and given special care, which is costly.</p>
+
+
+
+<p>Caring for the healthy ones also doesn&#8217;t come cheap, especially since John uses the best possible food. And he&#8217;s been funding it almost entirely from his own pocket. We learn that only a few of the people who have brought cats to the haven, have continued to contribute towards their upkeep. The result is that John has been shouldering a heavy load almost completely by himself.</p>
+
+
+
+<p>We would like to change that. If anyone reading this has ever taken cats to Stevie&#8217;s, won&#8217;t you consider now beginning to contribute? It&#8217;s never too late!</p>
+
+
+
+<p>Or if you haven&#8217;t taken cats there but the haven&#8217;s story has touched your heart, perhaps you would consider contributing R50 or R100 or R500 monthly?</p>
+
+
+
+<p>Any contributions can be paid into the NCat account (we&#8217;re a registered NPO) using the reference &#8216;Stevie&#8217;s&#8217;. We&#8217;ll may sure they reach John asap!</p>
+
+
+
+<p>And if you live in Gauteng or visit the area, won&#8217;t you add Stevie&#8217;s Cat Haven to your itinerary?&nbsp; You&#8217;ll be glad you did! You can contact John directly via his Facebook page at <a href="https://www.facebook.com/john.bonnard">https://www.facebook.com/john.bonnard</a>. </p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_63bb5d07-a715-44d9-b8f1-783ff333264a" id="consent_check_63bb5d07-a715-44d9-b8f1-783ff333264a" type="checkbox"/><label for="consent_check_63bb5d07-a715-44d9-b8f1-783ff333264a" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-700" class="post-700 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/taming-feral-kttens-for-homng/" rel="bookmark">What do I do when I discover a feral family? (Part 3)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/taming-feral-kttens-for-homng/" rel="bookmark"><time class="entry-date published" datetime="2022-12-25T04:32:08+00:00">December 25, 2022</time><time class="updated" datetime="2022-12-25T04:32:15+00:00">December 25, 2022</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 8c</h2>
+
+
+
+<h2 class="wp-block-heading">Taming feral kittens</h2>
+
+
+
+<p></p>
+
+
+
+<p>The best time to tame feral kittens is before the age of 6 weeks, while they&#8217;re still suckling (see <a href="https://iamcat.blog/helping-feral-cat-families/">https://iamcat.blog/helping-feral-cat-families/</a>). If you come across feral kittens that are older than 6 weeks, you may not be able to tame them all completely. Or some may become socialised and others not. If you would still like to try to tame them, these tips may be useful. Also see the wonderful video &#8216;From Wild to Mild&#8217; referred to below.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Feral-kittens-in-nature-3.jpg?resize=390%2C260&#038;ssl=1" alt="Feral kittens in nature" class="wp-image-707" width="390" height="260" data-recalc-dims="1" /></figure></div>
+
+
+<p>Keep the kittens in a smallish space, such as a small bathroom. Better yet, use a smallish cage with two of its sides covered or pushed up in a corner. This will give them a feeling of safety. Place a ‘cat cave’ or sleeping pod in the cage, as well as food and water. Also provide a litter box removed as far as possible from their food, and toys to play with.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li>When taming feral kittens, don’t try to touch them at first. What is important, is to spend as much time with them as possible. You might simply sit and read aloud in or next to their cage. Speak to them often, looking at them while slowly blinking at them so they&#8217;ll know you&#8217;re no threat to them.</li>
+
+
+
+<li>If they&#8217;re in a larger room, they will probably hide under a bed or other piece of furniture. Ensure that their food, water and litter box are close enough to the bed that they needn’t venture into the room to reach them. If they have to venture too far out, they may go without food and water. Several times a day, lie down flat on the floor next to the bed and talk to them gently while slowly blinking at them.</li>
+
+
+
+<li>On around the 3rd day, use meal times to begin touching and stroking them lightly. If possible, use a long feather such as a peacock feather. Stroke the feather gently over their little bodies while they&#8217;re eating. They won&#8217;t be as spooked by the feather as they would be by your hand.</li>
+
+
+
+<li>Continue in this manner for a few days until you see that they&#8217;re beginning to relax.</li>
+
+
+
+<li>Then start stroking them gently with your hand while they&#8217;re eating. Slowly but surely, they will come around.</li>
+
+
+
+<li>Once they&#8217;re tame enough for you to catch them by hand, begin bringing them into your family room for an hour or so at a time. This will give them the opportunity to be in a room containing a TV, telephone, chatting people etc. If you have other animals, keep them outside at first. Small, noisy children will also spook them, so try to keep children from rushing or grabbing at them.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:51% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="300" height="168" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/From-wild-to-mild.jpg?resize=300%2C168&#038;ssl=1" alt="From wild to mild" class="wp-image-704 size-full" data-recalc-dims="1"/></figure><div class="wp-block-media-text__content">
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Generally, you would need to get them to the point at which they&#8217;re completely at ease with human company in order to home them.&nbsp;A wonderful source I can really recommend, is this video: <a href="https://www.youtube.com/watch?v=ST8dlkNGT9I">https://www.youtube.com/watch?v=ST8dlkNGT9I</a>. </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>A kitten is in the animal world what a rosebud is in the garden.</p><cite>Robert Southey</cite></blockquote></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat story 13</h2>
+
+
+
+<p>Do you live anywhere near Sandton in Johannesburg, South Africa? If you do, how would you feel about topping up 3 feral cat feeding stations in an office park 3 times a week? The food will be provided, so you&#8217;ll be donating your petrol money and, more importantly, your time. But it shouldn&#8217;t take you more than half an hour.</p>
+
+
+
+<p>You&#8217;re probably wondering who you&#8217;ll be feeding. There is a little band of community cats at the Inanda Green Business Park in Sandton &#8211; very near Sandton City mall. Their regular caregiver will be leaving town soon to take up a job elsewhere. So they wll have no one to feed them as from the beginning of the new year. </p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1.jpg?resize=435%2C580&#038;ssl=1" alt="Feral colony being fed" class="wp-image-717" width="435" height="580" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?resize=1500%2C2000&amp;ssl=1 1500w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Inanda-ferals-1-scaled.jpg?w=1320&amp;ssl=1 1320w" sizes="(max-width: 435px) 100vw, 435px" data-recalc-dims="1" /></figure></div>
+
+
+<p>This pic was taken a few months ago, before the little colony was provided with feeding stations. Feeding them now simply entails topping up the bowls in 3 different feeding stations within walking distance of one another. </p>
+
+
+
+<p></p>
+
+
+
+<p>If you think you might like to give this a go, won&#8217;t you please contact me? My e-mail addy is anneke@ncat.co.za. I will meet you at the Park and show you the ropes. And introduce you to some of the kitties, of course!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title"><br><br><br>Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title"><br><br><br>Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_1d3cfe0a-80bb-4a1d-bd27-7bb0508708bb" id="consent_check_1d3cfe0a-80bb-4a1d-bd27-7bb0508708bb" type="checkbox"/><label for="consent_check_1d3cfe0a-80bb-4a1d-bd27-7bb0508708bb" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-649" class="post-649 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/fostering-feral-famlies/" rel="bookmark">What do I do when I discover a feral family? (Part 2)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/fostering-feral-famlies/" rel="bookmark"><time class="entry-date published" datetime="2022-12-18T07:16:21+00:00">December 18, 2022</time><time class="updated" datetime="2022-12-24T10:20:28+00:00">December 24, 2022</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 8b</h2>
+
+
+
+<h2 class="wp-block-heading">Fostering a feral family</h2>
+
+
+
+<p>Perhaps you&#8217;ve decided to foster a feral family you&#8217;ve discovered (see <a href="https://iamcat.blog/helping-feral-cat-families/">https://iamcat.blog/helping-feral-cat-families/</a>) yourself, but you have no idea how to go about it. Hopefully the guidelines below will set your mind at ease!</p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Feral-mom-with-kitten.jpg?resize=486%2C323&#038;ssl=1" alt="Feral cat mom with a kitten" class="wp-image-659" width="486" height="323" data-recalc-dims="1" /></figure></div>
+
+
+<ul>
+<li>Begin by preparing a safe spare room or a large, secure cage for the little feline family beforehand. It is crucial that the mommy cat must not be able to escape from the room or enclosure. If she does, she may try to make her way back to her original home, facing untold dangers along the way. She may also develop painful and sometimes deadly mastitis. So close all windows tightly, except perhaps if they are very high up and the mom won&#8217;t be able to reach them. But don’t underestimate a cat’s climbing ability! (If you need to leave any windows open, cover them securely with mesh to prevent the mommy cat from getting out.)</li>
+
+
+
+<li>The next step in fostering a feral family is providing a large box (the size of a small dog kennel) in which the mommy will feel safe. Tape the box closed to form a cube. Then place it on its side and cut a square opening (about 20 cm by 20 cm) in it as an entrance to the box. The opening must not be so small that the mommy may feel claustrophobic, and it must end about 3 cm off the floor. This is to prevent the kittens from crawling out while they are very small. 
+<ul></ul>
+</li>
+
+
+
+<li>Feed the mommy good quality <em>kitten food </em>(which she needs while lactating) and fresh water. When she begins to wean the babies, she will teach them to eat the same food. Also provide a litter box. At first add a layer of real soil from the garden on top, as the mom won&#8217;t recognise commercial cat litter.
+<ul></ul>
+</li>
+
+
+
+<li>Give the family a day or so to settle. Then begin to approach the kittens carefully and slowly. The mommy may hiss at you initially, but will then probably seek refuge in the box.</li>
+
+
+
+<li>Sit next to the kittens and begin to handle them carefully and gently. Speak softly and reassuringly to the mommy and blink at her slowly to show her you are not a threat. Do this for a few minutes only the first time. Repeat the process later the same day. From day two, begin to lengthen your play sessions. Continue until the kittens are completely used to being handled and are climbing onto you of their own accord.</li>
+
+
+
+<li>Don&#8217;t change the bedding the entire time the kittens are being suckled. They do best with their own, familiar smell, and the mommy will do all the cleaning that is necessary. Once the kittens begin to eat solids themselves, provide them with a flat litter box. If they make droppings anywhere else, move the droppings to the litter box. They will soon get the message!</li>
+
+
+
+<li>When the kittens have been weaned, at around 7-8 weeks, begin advertising for homes. You could also contact welfare groups and shelters in your area. Ensure that you screen new homes carefully beforehand (see a later Cat Blog for tips), and deliver each kitten to his or her new home yourself. Don&#8217;t hesitate to take the kitten back with you if you find that the home is not suitable!</li>
+
+
+
+<li>Arrange for the mom to be sterilised and return her to her own territory, provided there are reliable food sources there.</li>
+</ul>
+
+
+
+<ul></ul>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Kittens-in-a-row.jpg?resize=660%2C269&#038;ssl=1" alt="Kittens in a row" class="wp-image-658" width="660" height="269" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Kittens-in-a-row.jpg?w=635&amp;ssl=1 635w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Kittens-in-a-row.jpg?resize=300%2C122&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure></div>
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>I have felt cats rubbing their faces against mine and touching my cheek with claws carefully sheathed. These things, to me, are expressions of love.</p><cite>James Herriot</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Cat story 12</h2>
+
+
+
+<h2 class="wp-block-heading">Another cat heroine: Pearl Smith, Port Alfred </h2>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearl-with-cats-2.jpg?resize=229%2C407&#038;ssl=1" alt="Lady with cat on shoulder" class="wp-image-674" width="229" height="407" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearl-with-cats-2.jpg?resize=576%2C1024&amp;ssl=1 576w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearl-with-cats-2.jpg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearl-with-cats-2.jpg?resize=768%2C1365&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearl-with-cats-2.jpg?w=864&amp;ssl=1 864w" sizes="(max-width: 229px) 100vw, 229px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>Pearl receiving love from one of her rescues</strong></figcaption></figure></div>
+
+
+<p>This week I&#8217;m using some wonderful info and pics very kindly shared with me by my highly regarded NCat colleague from the Eastern Cape, Adri Moller. She&#8217;s told me much about a remarkable lady she&#8217;s come to know, who is making a real difference in the lives of the community cats in the area: Pearl Smith.</p>
+
+
+
+<p>Pearl is unemployed and spends all her time caring for community cats by means of feeding and sterilisation.</p>
+
+
+
+<p>To quote Adri: &#8216;Another of our heroines is Pearl Smith, who lives in Port Alfred in the Eastern Cape, where she has dedicated her life to helping feral cats.&#8217;</p>
+
+
+
+<p>This wonderful video says it all<a href="https://youtu.be/GJw5G4MSf7M" target="_blank" rel="noreferrer noopener">!</a></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Kowie feral cat project" width="660" height="371" src="https://www.youtube.com/embed/GJw5G4MSf7M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="304" data-id="676" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-2.jpg?resize=660%2C304&#038;ssl=1" alt="Cats eating" class="wp-image-676" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-2.jpg?resize=1024%2C472&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-2.jpg?resize=300%2C138&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-2.jpg?resize=768%2C354&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-2.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="304" data-id="675" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-1.jpg?resize=660%2C304&#038;ssl=1" alt="Cats eating" class="wp-image-675" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-1.jpg?resize=1024%2C472&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-1.jpg?resize=300%2C138&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-1.jpg?resize=768%2C354&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Pearls-cats-1.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption"><strong>These are some of the cats Pearl cares for daily</strong></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>As one can imagine, funds are a huge stumbling block. The donor who has been supporting Pearl with food and donations is not able to help any longer due to illness. Pearl is therefore now working on her own with Adri&#8217;s assistance and guidance.</p>
+
+
+
+<p></p>
+
+
+
+<p>It would be absolutely amazing if you could support Pearl by donating towards her TNR efforts in Port Alfred! Contributions can be made directly to:</p>
+
+
+
+<p>Kowie Veterinary Clinic cc<br>FNB cheque account Port Alfred<br>Acc no 62851053224<br>Branch code 210717<br>Reference FeralPearl</p>
+
+
+
+<p><br></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_b1dc7ff4-d356-4f60-9694-f8a3b458914a" id="consent_check_b1dc7ff4-d356-4f60-9694-f8a3b458914a" type="checkbox"/><label for="consent_check_b1dc7ff4-d356-4f60-9694-f8a3b458914a" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-587" class="post-587 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+					<h1 class="entry-title"><a href="https://iamcat.blog/helping-feral-cat-families/" rel="bookmark">What do I do when I discover a feral family? (Part 1)</a></h1>		
+				<div class="entry-meta">
+						<span class="posted-on"><a href="https://iamcat.blog/helping-feral-cat-families/" rel="bookmark"><time class="entry-date published" datetime="2022-12-04T07:53:17+00:00">December 4, 2022</time><time class="updated" datetime="2022-12-24T10:18:07+00:00">December 24, 2022</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://iamcat.blog/author/anneke/">anneke</a></span></span>		</div><!-- .entry-meta -->
+
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Cat Blog 8a</h2>
+
+
+
+<p>This is the first in a series of three blogs about helping feral families.</p>
+
+
+
+<h2 class="wp-block-heading">Helping feral families</h2>
+
+
+
+<p></p>
+
+
+
+<p>This week I received an urgent request for advice from someone who had discovered a feral mom and her babies in her garden. The kind person wanted to help them but didn&#8217;t know how.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Feral-family-4.jpg?resize=319%2C233&#038;ssl=1" alt="Feral mom wiith kittens" class="wp-image-604" width="319" height="233" data-recalc-dims="1" /></figure></div>
+
+
+<p>Making decisions about feral kittens can be tricky, so it&#8217;s important to know as much as possible about them.</p>
+
+
+
+<p>Most shelters, if they have space, will only take kittens that are completely tame and young enough to be adopted. This usually means that the kittens shouldn&#8217;t be much older than 7 weeks. Some welfare organisations do indeed tame feral kittens, but they tend to take kittens younger than about 5 weeks. The reason for this is that one’s chances of taming kittens are reduced after 5 weeks. We’ve found that, at 6 weeks and older, not all feral kittens tame sufficiently to compete with tame kittens for good homes. If we place them in an adoption cage with tame kittens, they try to hide when prospective adoptive parents come to visit. We could therefore risk subjecting them to enormous stress without them finding homes.</p>
+
+
+
+<p>Some older kittens can be tamed. However, the members of welfare organisations are often dealing with large numbers of cats and kittens in need. So they tend to spend their time, energy and funds on kittens that have the best chance of adoption. </p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Feral-kittens-in-nature.jpg?resize=412%2C274&#038;ssl=1" alt="Feral kittens in nature" class="wp-image-609" width="412" height="274" data-recalc-dims="1" /></figure></div>
+
+
+<p>We therefore tend to leave feral or semi-tame older kittens in their own environment. This is where they feel at home &#8211; even though it may not seem like an ideal environment to us. We then make sure as best we can that the kittens are fed and sterilised. (See Cat Blog 2a and 2b at <a href="https://iamcat.blog/feral-cats-and-how-to-help-them/">https://iamcat.blog/feral-cats-and-how-to-help-them/</a>.)</p>
+
+
+
+<p></p>
+
+
+
+<p>If the kittens are younger than 5 weeks, however, you might handle the situation differently. If someone could ‘foster’ the kittens with their mom until the kittens are weaned, they would have a much better chance of adoption. (More about this in the next Cat Blog.) NB: <em>It is not a good idea to separate unweaned kittens from their mom. This is not only for their sake but also because the mom will look for them for days. She could also develop painful and potentially fatal mastitis.</em></p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Feral-mom-with-kittens-2.jpg?resize=569%2C319&#038;ssl=1" alt="Feral mom with kittens" class="wp-image-611" width="569" height="319" data-recalc-dims="1" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>Once the kittens have been weaned, the mom will need to be sterilised. You should then return her to her own area. If she was in good condition before going to the foster, she will not need additional feeding. If not, perhaps consider leaving food and water for her whenever you are in the area. Or you could arrange for someone to feed her more regularly. (See Cat Blog 2a and 2b for detailed info on helping feral families.)</p>
+
+
+
+<p>If you realse that the kittens would be better off being left in their own environment, try to arrange for the entire family to be sterilised. The best time would be when the kittens are around 3 months old.&nbsp;This is the &#8216;magic window&#8217; when the kittens will be old enough to be &#8216;done&#8217; and the mom will not have had her next litter.(More about trapping in Cat Blog 4a at <a href="https://iamcat.blog/how-do-i-trap-community-cats-part-1/">https://iamcat.blog/how-do-i-trap-community-cats-part-1/</a>) </p>
+
+
+
+<p><strong>How do I judge feral kittens’ age?</strong></p>
+
+
+
+<p>In order to help feral families, we need to know how old the kittens are:</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Feral-kitten-in-nature.jpg?resize=326%2C217&#038;ssl=1" alt="Feral kitten" class="wp-image-641" width="326" height="217" data-recalc-dims="1" /></figure></div>
+
+
+<ul>
+<li>If they’re not walking yet, they’re younger than 4 weeks.</li>
+
+
+
+<li>If they are beginning to walk in a wobbly way, they’re about 4 weeks old.</li>
+
+
+
+<li>If they’re running and climbing quite strongly but not really eating solids yet and are smaller than the kittens in pet shops and on chocolate boxes, they are about 5 weeks old.</li>
+
+
+
+<li>If they’re eating solids independently and are about the size of kittens in pet shops, they’re around 6 weeks old.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat quote of the week</h2>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Just watching my cats can make me happy.</p><cite>Paula Cole</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Did you know?</h2>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="259" height="195" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Cat-grooming-itself-2.jpg?resize=259%2C195&#038;ssl=1" alt="Cat grooming itself" class="wp-image-613 size-full" data-recalc-dims="1"/></figure><div class="wp-block-media-text__content">
+<p>Cats spend 70% of their time sleeping and about 30% cleaning or grooming themselves.</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Cat Story 11</h2>
+
+
+
+<h2 class="wp-block-heading">Revisiting the Waterfall Office Park colony</h2>
+
+
+
+<p>You might remember the very first story in the very first I am Cat Blog entitled &#8216;A colony in trouble&#8217;. The story was all about one of the groups of community cats in the Waterfall Office Park in Midrand, South Africa. The regular food sponsor could no longer donate food for the cats, and the caregivers were very concerned about their future wellbeing. </p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="617" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-main-entrance-low-res.jpg?resize=660%2C880&#038;ssl=1" alt="Entrance to office park" class="wp-image-617" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-main-entrance-low-res.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-main-entrance-low-res.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-main-entrance-low-res.jpg?w=1125&amp;ssl=1 1125w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="668" data-id="591" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Office-Park-fountains.jpg?resize=660%2C668&#038;ssl=1" alt="Fountains in office park" class="wp-image-591" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Office-Park-fountains.jpg?w=780&amp;ssl=1 780w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Office-Park-fountains.jpg?resize=297%2C300&amp;ssl=1 297w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Office-Park-fountains.jpg?resize=768%2C777&amp;ssl=1 768w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="619" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-cat.jpg?resize=660%2C880&#038;ssl=1" alt="Cat at office park" class="wp-image-619" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-cat.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-cat.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-cat.jpg?w=1056&amp;ssl=1 1056w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+</figure>
+
+
+
+<p></p>
+
+
+
+<p>Well, today I have brilliant news. The truly remarkable Management and Directorate of this exceptional Office Park have taken over the feeding of the community cats themselves!</p>
+
+
+
+<p>Yes, they will be supplying all the food for this colony in future, and their own employees will be doing the feeding! In fact, they had already begun feeding most of the community cats in the Park before we approached them about this particular group. They had also supplied wonderful bottom feeders of their own accord!</p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder.jpg?resize=286%2C381&#038;ssl=1" alt="Cat bottom feeder" class="wp-image-621" width="286" height="381" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-scaled.jpg?w=1320&amp;ssl=1 1320w" sizes="(max-width: 286px) 100vw, 286px" data-recalc-dims="1" /></figure></div>
+
+
+<p>And there&#8217;s more. Not only is this one of the most attractive office parks I&#8217;ve ever seen &#8211; the well-maintained buildings interspersed with tranquil ponds &#8211; but they&#8217;re also environmentally friendly. They&#8217;ve been planting indigenous shrubs and trees, and even enticing bees to the Park. They also feed and protect the local population of Egyptian Geese &#8211; traffic signs reminding motorists to be mindful of the ducks.</p>
+
+
+
+<p>In the years I&#8217;ve been involved with community cats, I&#8217;ve dealt with numerous centre managements. The Waterfall Office Park stands head and shoulders above all the rest.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Management and Directorate of the Waterfall Office Park, hats off to you! </strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-12 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="623" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks.jpg?resize=660%2C880&#038;ssl=1" alt="Mind the ducks road sign" class="wp-image-623" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?resize=1500%2C2000&amp;ssl=1 1500w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-mind-the-ducks-scaled.jpg?w=1320&amp;ssl=1 1320w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="880" data-id="625" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Park-fountain.jpg?resize=660%2C880&#038;ssl=1" alt="Fountain pond" class="wp-image-625" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Park-fountain.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Park-fountain.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-Park-fountain.jpg?w=867&amp;ssl=1 867w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="660" height="297" data-id="627" src="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?resize=660%2C297&#038;ssl=1" alt="Bottom feeder with cat inside" class="wp-image-627" srcset="https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?resize=1536%2C691&amp;ssl=1 1536w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/iamcat.blog/wp-content/uploads/2022/12/Waterfall-bottom-feeder-with-cat-inside.jpg?w=1320&amp;ssl=1 1320w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" /></figure>
+</figure>
+
+
+
+<p></p>
+
+
+
+<p>Find out more about them at <a href="http://waterfallofficepark.co.za/">http://waterfallofficepark.co.za/</a>.</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-ce4wp-subscribe"><div class="onSubmission" style="display:none"><input class="onSubmissionSetting" name="onSubmissionSetting" type="hidden" value="message"/><div><h2 class="title">Subscribe</h2><p class="subTitle">Thank you for subscribing!</p></div></div><form class="cm-contact-form" name="contact-form"><input class="list_id" name="list_id" type="hidden"/><h2 class="title">Subscribe</h2> <p class="subTitle">Sign up for our newsletter and stay up to date</p><div class="inputBlock"><label>First name</label><input class="firstName" name="first_name" type="text"/></div><div class="inputBlock"><label>Last name</label><input class="lastName" name="last_name" type="text"/></div><div class="inputBlock"><label>Email</label><span class="wp-caption-text required-text" style="color:#ee0000">*</span><input class="email" name="email" type="email" oninvalid="setCustomValidity('Please enter a valid email address')" oninput="setCustomValidity('')" required/></div><div class="disclaimer"><input class="consent_check" name="consent_check_901ca8a2-e00e-4111-805e-641f7dde484d" id="consent_check_901ca8a2-e00e-4111-805e-641f7dde484d" type="checkbox"/><label for="consent_check_901ca8a2-e00e-4111-805e-641f7dde484d" class="disclaimer-label">Can we send you an email from time to time?</label></div><button class="wp-block-button__link submit-button" type="submit">Subscribe</button></form></div>
+
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Posts navigation</h1>
+		<div class="nav-links">
+
+						<div class="nav-previous"><a href="https://iamcat.blog/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+			<span class="sep"> &bull; </span>
+			Theme: Lyretail by <a href="http://wordpress.com/themes/lyretail/" rel="designer">WordPress.com</a>.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-block-gallery.wp-block-gallery-2{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-3{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-4{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-5{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-6{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-7{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-8{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-9{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-10{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-11{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-12{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+</style>
+<script type="text/javascript" id="ce4wp_form_submit-js-extra">
+/* <![CDATA[ */
+var ce4wp_form_submit_data = {"siteUrl":"https:\/\/iamcat.blog","url":"https:\/\/iamcat.blog\/wp-admin\/admin-ajax.php","nonce":"02f13970b6","listNonce":"55a1bddfb4","activatedNonce":"31f941e4e3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1674681541" id="ce4wp_form_submit-js"></script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false&amp;ver=132249e245926ae3e188" id="jetpack-photon-js"></script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/themes/minnow/js/navigation.js?ver=20120206" id="minnow-navigation-js"></script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/themes/minnow/js/skip-link-focus-fix.js?ver=20130115" id="minnow-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/themes/lyretail/js/lyretail.js?ver=20150217" id="lyretail-script-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202413.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"209718275\",\"post\":\"0\",\"tz\":\"0\",\"srv\":\"iamcat.blog\",\"j\":\"1:13.2.2\"}") ]);
+_stq.push([ "clickTrackerInit", "209718275", "0" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/dist/vendor/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.3/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://iamcat.blog/wp-content/plugins/jetpack/_inc/build/theme-tools/responsive-videos/responsive-videos.min.js?minify=false&amp;ver=68f96734b25612a82f88" id="jetpack-responsive-videos-js"></script>
+
+</body>
+</html>
